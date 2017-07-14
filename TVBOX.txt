@@ -58,7 +58,6 @@ TVBS,http://ottclub.sixu.ml:443/fmts/n670.stream/playlist.m3u8#http://cl5.ottclu
 非凡新聞,http://ottclub.sixu.ml:443/fmts/n672.stream/playlist.m3u8
 MOMO3購物,http://202.39.43.119/stc/ch2017010665096.m3u8#http://202.39.43.119/sta/ch9532017010664096.m3u8
 東森5購物,http://202.39.43.119/stc/ch2016112265079.m3u8#http://202.39.43.119/sta/ch9532016112264079.m3u8
-東森4購物,http://202.39.43.119/stc/ch2016112265080.m3u8#http://202.39.43.119/sta/ch9532016112264080.m3u8
 衛視電影,http://ottclub.sixu.ml:443/fmts/n673.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n673.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8602.m3u8#http://cl5.ottclub.info:443/kitty/c722.stream/playlist.m3u8
 東森電影,http://ottclub.sixu.ml:443/fmts/n674.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9102.m3u8#http://cl5.ottclub.info:443/fmts/n674.stream/playlist.m3u8
 緯來電影,http://ottclub.sixu.ml:443/fmts/n675.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n675.stream/playlist.m3u8#
@@ -73,9 +72,12 @@ CineMax電影,http://ottclub.sixu.ml:443/fmts/n680.stream/playlist.m3u8#http://c
 Fox體育,http://ottclub.sixu.ml:443/fmts/n682.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9301.m3u8#http://cl5.ottclub.info:443/fmts/n682.stream/playlist.m3u8
 Fox-2體育,http://ottclub.sixu.ml:443/fmts/n683.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9302.m3u8#http://cl5.ottclub.info:443/fmts/n683.stream/playlist.m3u8
 緯來日本,http://ottclub.sixu.ml:443/fmts/n684.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9602.m3u8
-
-
-
+ANIMAX動漫,http://ottclub.sixu.ml:443/kitty/c708.stream/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c708.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8502.m3u8
+國興衛視,http://ottclub.sixu.ml:443/kitty/c701.stream/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c701.stream/playlist.m3u8
+FOXHD,http://ottclub.sixu.ml:443/water/c731.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c731.stream/playlist.m3u8
+MTV HD,http://ottclub.sixu.ml:443/water/c686.stream/playlist.m3u8
+東森4購物,http://202.39.43.119/stc/ch2016112265080.m3u8#http://202.39.43.119/sta/ch9532016112264080.m3u8
+東森3購物,http://202.39.43.119/sta/ch9532016112264078.m3u8#http://202.39.43.119/stc/ch2016112265078.m3u8
 
 美亞電影(LS TIME),http://ottclub.sixu.ml:443/kitty/c704.stream/playlist.m3u8
 星衛電影,http://ottclub.sixu.ml:443/water/c705.stream/playlist.m3u8
@@ -113,8 +115,7 @@ MOMO3購物,http://202.39.43.119/stc/ch2017010665096.m3u8
 東森1購物,http://202.39.43.119/sta/ch9532016112264076.m3u8
 東森1購物,http://202.39.43.119/stc/ch2016112265076.m3u8
 東森2購物,http://202.39.43.119/sta/ch9532016112264077.m3u8
-東森3購物,http://202.39.43.119/sta/ch9532016112264078.m3u8
-東森3購物,http://202.39.43.119/stc/ch2016112265078.m3u8
+
 
 
 非凡商業,http://ottclub.sixu.ml:443/water/c730.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n672.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9502.m3u8#http://cl5.ottclub.info:443/water/c730.stream/playlist.m3u8
@@ -169,7 +170,7 @@ MtvHD,http://cl5.ottclub.info:443/water/c686.stream/playlist.m3u8
 女團5,http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8
 女團5,http://bshdl.cdn.zhanqi.tv/zqlive/19969_TnDT2.flv
 音樂殿堂,http://pl3.live.panda.tv/live_panda/33ab8c68a352b03d5d08710c6654a1bb.flv
-FOX綜合,http://cl5.ottclub.info:443/water/c731.stream/playlist.m3u8
+
 韓國tvN,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8401.m3u8
 韓國tvN,http://cl5.ottclub.info:443/water/c727.stream/playlist.m3u8
 韓國娛樂,http://cl5.ottclub.info:443/kitty/c718.stream/playlist.m3u8
@@ -183,7 +184,6 @@ FOX綜合,http://cl5.ottclub.info:443/water/c731.stream/playlist.m3u8
 
 東森超視美洲,p2p://207.238.82.30:9916/5491b3af0008583b3856eb5f21b01e28
 東森美洲,p2p://207.238.82.30:9916/5491b41b000989683858918d716a4d69
-國興衛視,http://cl5.ottclub.info:443/kitty/c701.stream/playlist.m3u8
 
 緯來美洲,p2p://207.238.82.38:9916/51b97c6400040d991bc1b78963077f1b
 
@@ -231,8 +231,7 @@ CatchPlay電影,http://cl5.ottclub.info:443/water/c685.stream/playlist.m3u8
 
 
 
-AniMax動漫,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8502.m3u8
-AniMax動漫,http://cl5.ottclub.info:443/kitty/c708.stream/playlist.m3u8
+
 
 Babytv,http://cl5.ottclub.info:443/kitty/c724.stream/playlist.m3u8
 
