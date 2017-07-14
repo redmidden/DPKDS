@@ -2,13 +2,30 @@
 電影預告,http://61.218.59.97/live/ch123/playlist.m3u8
 奇妙電視,http://61.10.2.137/live_fantv/_definst_/fantv77_h.live/playlist.m3u8
 搞笑綜合,http://61.218.59.193/live/ch121/playlist.m3u8
+CNN International,http://ottclub.sixu.ml:443/fmts/n652.stream/playlist.m3u8
+CNN International,http://cl5.ottclub.info:443/fmts/n652.stream/playlist.m3u8
+CNN International,http://cl5.ottclub.info:443/fmts/c672.stream/playlist.m3u8
+CNN International,http://cl5.ottclub.info:443/kitty/c675.stream/playlist.m3u8
+CNN International,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9603.m3u8
+民視,http://202.39.43.119/stc/ch2016112265087.m3u8
+民視,http://ottclub.sixu.ml:443/fmts/n653.stream/playlist.m3u8
+民視,http://202.39.43.119/stc/ch2016112265087.m3u8
+人間衛視,http://202.39.43.119/sta/ch9532016112264043.m3u8
+人間衛視,http://202.39.43.119/stc/ch2016112265043.m3u8
 台視,http://cl5.ottclub.info:443/fmts/n701.stream/playlist.m3u8
+台視,http://livewowza.ad2engage.com/ttvmainliveorigin/TTVMainStream/playlist.m3u8
+台視,http://ottclub.sixu.ml:443/fmts/n701.stream/playlist.m3u8
+民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民視新聞,http://210.61.56.23:80/hls/ftvtv/index.m3u8
+民視新聞,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8301.m3u8
+民視新聞,http://cl5.ottclub.info:443/fmts/n699.stream/playlist.m3u8
+
+
+
 台視美洲,p2p://207.238.82.38:9916/51aea8370002dc6ce83e43c11c6234f6
 中視,http://cl5.ottclub.info:443/fmts/n702.stream/playlist.m3u8
 華視,http://cl5.ottclub.info:443/fmts/n703.stream/playlist.m3u8
 華視美洲,p2p://207.238.82.38:9916/51b97ba8000c65d41bbedb4c56ad01b3
-民視,http://202.39.43.119/stc/ch2016112265087.m3u8
-民視,http://cl5.ottclub.info:443/fmts/n653.stream/playlist.m3u8
 民視綜合,http://cl5.ottclub.info:443/water/c678.stream/playlist.m3u8
 民視綜合,http://cl5.ottclub.info:443/water/c560.stream/playlist.m3u8
 民視美洲,p2p://207.238.82.38:9916/51aea8a600029f63e83ff5493b03319a
@@ -144,10 +161,7 @@ CatchPlay電影,http://cl5.ottclub.info:443/water/c685.stream/playlist.m3u8
 壹新聞,http://m.nexttv.com.tw/mbr2.m3u8
 年代新聞,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8402.m3u8
 年代新聞,http://cl5.ottclub.info:443/fmts/n696.stream/playlist.m3u8
-民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-民視新聞,http://210.61.56.23:80/hls/ftvtv/index.m3u8
-民視新聞,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8301.m3u8
-民視新聞,http://cl5.ottclub.info:443/fmts/n699.stream/playlist.m3u8
+
 三立新聞,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8302.m3u8
 三立新聞,http://cl5.ottclub.info:443/fmts/n700.stream/playlist.m3u8
 東森新聞,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9103.m3u8
@@ -293,7 +307,4 @@ CGTN紀錄,http://27.254.63.162/stream/totnew.php?channel_id=b08a8052e6724bedba5
 NHK新聞,https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
 BBC新聞,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8504.m3u8
 BBC新聞,http://cl5.ottclub.info:443/kitty/c677.stream/playlist.m3u8
-CNN新聞,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9603.m3u8
-CNN新聞,http://cl5.ottclub.info:443/fmts/n652.stream/playlist.m3u8
-CNN新聞,http://cl5.ottclub.info:443/fmts/c672.stream/playlist.m3u8
-CNN新聞,http://cl5.ottclub.info:443/kitty/c675.stream/playlist.m3u8
+
