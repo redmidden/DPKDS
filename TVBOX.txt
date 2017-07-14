@@ -25,15 +25,14 @@ MOMO親子,http://ottclub.sixu.ml:443/fmts/n711.stream/playlist.m3u8#http://cl5.
 東森幼幼,http://ottclub.sixu.ml:443/fmts/n712.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8104.m3u8#http://cl5.ottclub.info:443/fmts/n712.stream/playlist.m3u8#
 緯來綜合,http://ottclub.sixu.ml:443/fmts/n713.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n713.stream/playlist.m3u8
 八大第一,http://ottclub.sixu.ml:443/water/c679.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c679.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n714.stream/playlist.m3u8
-八大綜合,http://ottclub.sixu.ml:443/fmts/n715.stream/playlist.m3u8
-八大綜合,http://cl5.ottclub.info:443/fmts/n715.stream/playlist.m3u8
-三立台灣,http://ottclub.sixu.ml:443/fmts/n716.stream/playlist.m3u8
-三立台灣,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8604.m3u8#http://cl5.ottclub.info:443/fmts/n716.stream/playlist.m3u8
+八大綜合,http://ottclub.sixu.ml:443/fmts/n715.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n715.stream/playlist.m3u8
+三立台灣,http://ottclub.sixu.ml:443/fmts/n716.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8604.m3u8#http://cl5.ottclub.info:443/fmts/n716.stream/playlist.m3u8
 三立都會,http://ottclub.sixu.ml:443/fmts/n685.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9303.m3u8#http://cl5.ottclub.info:443/fmts/n685.stream/playlist.m3u8
+衛視中文,http://ottclub.sixu.ml:443/water/c713.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8204.m3u8#http://cl5.ottclub.info:443/water/c713.stream/playlist.m3u8#http://27.254.63.162/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+
 
 三立新聞,http://ottclub.sixu.ml:443/fmts/n700.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8302.m3u8#http://cl5.ottclub.info:443/fmts/n700.stream/playlist.m3u8
 
-三立台灣,三立台灣,
 三立都會,http://ottclub.sixu.ml:443/fmts/n685.stream/playlist.m3u8
 三立都會,http://ottclub.sixu.ml:443/fmts/n685.stream/playlist.m3u8
 
@@ -84,9 +83,7 @@ FOX綜合,http://cl5.ottclub.info:443/water/c731.stream/playlist.m3u8
 韓國娛樂,http://cl5.ottclub.info:443/kitty/c718.stream/playlist.m3u8
 星衛娛樂,http://cl5.ottclub.info:443/kitty/c723.stream/playlist.m3u8
 衛視閤家歡,http://cl5.ottclub.info:443/kitty/c711.stream/playlist.m3u8
-衛視中文,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8204.m3u8
-衛視中文,http://cl5.ottclub.info:443/water/c713.stream/playlist.m3u8
-衛視中文(泰源),http://27.254.63.162/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+
 衛視卡式,http://27.254.63.162/stream/totnew.php?channel_id=c8233976dbba4a06a101780907447375
 天映經典,http://27.254.63.162/stream/totnew.php?channel_id=1c2276a2f1884b269ce281c3334e8f85
 
