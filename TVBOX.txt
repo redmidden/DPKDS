@@ -7,44 +7,45 @@ CNN International,http://cl5.ottclub.info:443/fmts/n652.stream/playlist.m3u8
 CNN International,http://cl5.ottclub.info:443/fmts/c672.stream/playlist.m3u8
 CNN International,http://cl5.ottclub.info:443/kitty/c675.stream/playlist.m3u8
 CNN International,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9603.m3u8
-民視,http://202.39.43.119/stc/ch2016112265087.m3u8
-民視,http://ottclub.sixu.ml:443/fmts/n653.stream/playlist.m3u8
-民視,http://202.39.43.119/stc/ch2016112265087.m3u8
+民視,http://202.39.43.119/stc/ch2016112265087.m3u8#http://ottclub.sixu.ml:443/fmts/n653.stream/playlist.m3u8#http://202.39.43.119/stc/ch2016112265087.m3u8
+
+
 人間衛視,http://202.39.43.119/sta/ch9532016112264043.m3u8
 人間衛視,http://202.39.43.119/stc/ch2016112265043.m3u8
 台視,http://cl5.ottclub.info:443/fmts/n701.stream/playlist.m3u8
 台視,http://livewowza.ad2engage.com/ttvmainliveorigin/TTVMainStream/playlist.m3u8
 台視,http://ottclub.sixu.ml:443/fmts/n701.stream/playlist.m3u8
+台視,http://cl5.ottclub.info:443/fmts/n701.stream/playlist.m3u8
 大愛,http://ottclub.sixu.ml:443/water/c559.stream/playlist.m3u8
 大愛,http://cl5.ottclub.info:443/water/c559.stream/playlist.m3u8
-中視,http://cl5.ottclub.info:443/fmts/n702.stream/playlist.m3u8
 中視,http://ottclub.sixu.ml:443/fmts/n702.stream/playlist.m3u8
+中視,http://cl5.ottclub.info:443/fmts/n702.stream/playlist.m3u8
 霹靂台灣,http://ottclub.sixu.ml:443/water/c673.stream/playlist.m3u8
 霹靂台灣,http://cl5.ottclub.info:443/water/c673.stream/playlist.m3u8
 華視,http://ottclub.sixu.ml:443/fmts/n703.stream/playlist.m3u8
 華視,http://cl5.ottclub.info:443/fmts/n703.stream/playlist.m3u8
 公視,http://ottclub.sixu.ml:443/fmts/n704.stream/playlist.m3u8
 公視,http://cl5.ottclub.info:443/fmts/n704.stream/playlist.m3u8
-公視2,http://cl5.ottclub.info:443/fmts/n636.stream/playlist.m3u8
 公視2,http://ottclub.sixu.ml:443/fmts/n636.stream/playlist.m3u8
+公視2,http://cl5.ottclub.info:443/fmts/n636.stream/playlist.m3u8
 好消息衛星電視台,http://live.streamingfast.net/osmflivech1.m3u8
 好消息衛星電視台,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 原住民族電視台,http://gcdn.3rd-evo.com/titv-live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8
-原住民族電視台,http://202.39.43.119/sta/ch9532016122964093.m3u8
 原住民族電視台,http://202.39.43.119/stc/ch2016122965093.m3u8
-原住民族電視台,http://gcdn.3rd-evo.com/titv-live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8
-客家電視台,http://202.39.43.119/sta/ch9532016112264085.m3u8
+原住民族電視台,http://202.39.43.119/sta/ch9532016122964093.m3u8
 客家電視台,http://202.39.43.119/stc/ch2016112265085.m3u8
-國家地理頻道,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8603.m3u8
+客家電視台,http://202.39.43.119/sta/ch9532016112264085.m3u8
+國家地理頻道,http://ottclub.sixu.ml:443/fmts/n705.stream/playlist.m3u8
 國家地理頻道,http://cl5.ottclub.info:443/fmts/n705.stream/playlist.m3u8
 國家地理頻道,http://ottclub.sixu.ml:443/water/c706.stream/playlist.m3u8
-國家地理頻道,http://ottclub.sixu.ml:443/fmts/n705.stream/playlist.m3u8
-DISCOVERY,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8304.m3u8
+國家地理頻道,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8603.m3u8
 DISCOVERY,http://ottclub.sixu.ml:443/kitty/c716.stream/playlist.m3u8
-TLC旅遊生活,http://cl5.ottclub.info:443/fmts/n707.stream/playlist.m3u8
+DISCOVERY,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8304.m3u8
 TLC旅遊生活,http://ottclub.sixu.ml:443/fmts/n707.stream/playlist.m3u8
-動物星球,http://cl5.ottclub.info:443/fmts/n708.stream/playlist.m3u8
+TLC旅遊生活,http://cl5.ottclub.info:443/fmts/n707.stream/playlist.m3u8
 動物星球,http://ottclub.sixu.ml:443/fmts/n708.stream/playlist.m3u8
+動物星球,http://cl5.ottclub.info:443/fmts/n708.stream/playlist.m3u8
+
 
 
 
