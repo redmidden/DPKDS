@@ -109,6 +109,11 @@ FOX家庭,http://cl5.ottclub.info:443/water/c702.stream/playlist.m3u8
 FOX警匪,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8601.m3u8
 NHK新聞,https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
 
+中視新聞HD,https://redmidden.github.io/TVBOX/youtube_HD.php?id=ewtBJH-E3Yo|User-Agent=stagefright
+
+
+
+
 MOMO1購物,http://202.39.43.119/sta/ch9532017010664094.m3u8
 MOMO1購物,http://202.39.43.119/stc/ch2017010665094.m3u8
 MOMO2購物,http://202.39.43.119/sta/ch9532017010664095.m3u8
