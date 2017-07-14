@@ -7,7 +7,6 @@ CNN International,http://ottclub.sixu.ml:443/fmts/n652.stream/playlist.m3u8#http
 人間衛視,http://202.39.43.119/sta/ch9532016112264043.m3u8#http://202.39.43.119/stc/ch2016112265043.m3u8
 台視,http://cl5.ottclub.info:443/fmts/n701.stream/playlist.m3u8#http://livewowza.ad2engage.com/ttvmainliveorigin/TTVMainStream/playlist.m3u8#http://ottclub.sixu.ml:443/fmts/n701.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n701.stream/playlist.m3u8
 大愛,http://ottclub.sixu.ml:443/water/c559.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c559.stream/playlist.m3u8
-
 中視,http://ottclub.sixu.ml:443/fmts/n702.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n702.stream/playlist.m3u8
 霹靂台灣,http://ottclub.sixu.ml:443/water/c673.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c673.stream/playlist.m3u8
 華視,http://ottclub.sixu.ml:443/fmts/n703.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n703.stream/playlist.m3u8
@@ -20,11 +19,13 @@ CNN International,http://ottclub.sixu.ml:443/fmts/n652.stream/playlist.m3u8#http
 DISCOVERY,http://ottclub.sixu.ml:443/kitty/c716.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8304.m3u8
 TLC旅遊生活,http://ottclub.sixu.ml:443/fmts/n707.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n707.stream/playlist.m3u8
 動物星球,http://ottclub.sixu.ml:443/fmts/n708.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n708.stream/playlist.m3u8
-動物星球,
 迪士尼,http://ottclub.sixu.ml:443/fmts/n710.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n710.stream/playlist.m3u8
+CARTON NETWORK,http://ottclub.sixu.ml:443/fmts/n709.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n709.stream/playlist.m3u8
+MOMO親子,htt://ottclub.sixu.ml:443/fmts/n711.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n711.stream/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c675.stream/playlist.m3u8
+東森幼幼,http://ottclub.sixu.ml:443/fmts/n712.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8104.m3u8#http://cl5.ottclub.info:443/fmts/n712.stream/playlist.m3u8#
+緯來綜合,http://ottclub.sixu.ml:443/fmts/n713.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n713.stream/playlist.m3u8
 
-
-
+緯來日本,http://ottclub.sixu.ml:443/fmts/n684.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9602.m3u8
 
 民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民視新聞,http://210.61.56.23:80/hls/ftvtv/index.m3u8
@@ -91,11 +92,11 @@ FOX綜合,http://cl5.ottclub.info:443/water/c731.stream/playlist.m3u8
 東森超視美洲,p2p://207.238.82.30:9916/5491b3af0008583b3856eb5f21b01e28
 東森美洲,p2p://207.238.82.30:9916/5491b41b000989683858918d716a4d69
 國興衛視,http://cl5.ottclub.info:443/kitty/c701.stream/playlist.m3u8
-緯來日本,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9602.m3u8
+
 緯來美洲,p2p://207.238.82.38:9916/51b97c6400040d991bc1b78963077f1b
 緯來戲劇,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8203.m3u8
 緯來戲劇,http://cl5.ottclub.info:443/fmts/n694.stream/playlist.m3u8
-緯來綜合,http://cl5.ottclub.info:443/fmts/n713.stream/playlist.m3u8
+
 緯來育樂,http://cl5.ottclub.info:443/fmts/n706.stream/playlist.m3u8
 緯來體育,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9203.m3u8
 緯來體育,http://cl5.ottclub.info:443/fmts/n681.stream/playlist.m3u8
@@ -188,13 +189,11 @@ TVBS新聞,http://cl5.ottclub.info:443/fmts/n669.stream/playlist.m3u8
 非凡商業,http://cl5.ottclub.info:443/water/c730.stream/playlist.m3u8
 AniMax動漫,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8502.m3u8
 AniMax動漫,http://cl5.ottclub.info:443/kitty/c708.stream/playlist.m3u8
-CN卡通,http://cl5.ottclub.info:443/fmts/n709.stream/playlist.m3u8
+
 Babytv,http://cl5.ottclub.info:443/kitty/c724.stream/playlist.m3u8
 
-MOMO親子,http://cl5.ottclub.info:443/fmts/n711.stream/playlist.m3u8
-MOMO親子,http://cl5.ottclub.info:443/kitty/c675.stream/playlist.m3u8
-東森幼幼,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8104.m3u8
-東森幼幼,http://cl5.ottclub.info:443/fmts/n712.stream/playlist.m3u8
+
+
 babyTV英文,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9401.m3u8
 
 新傳媒5,http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/index_1_av-p.m3u8
