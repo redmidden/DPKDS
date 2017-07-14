@@ -46,10 +46,28 @@ JET綜合,http://ottclub.sixu.ml:443/fmts/n695.stream/playlist.m3u8#http://cl5.o
 Viva1購物,http://202.39.43.119/stc/ch2016112265091.m3u8#http://202.39.43.119/sta/ch9532016112264091.m3u8
 東森1購物,http://202.39.43.119/stc/ch2016112265076.m3u8#http://202.39.43.119/sta/ch9532016112264076.m3u8
 MOMO1購物,http://202.39.43.119/stc/ch2017010665094.m3u8#http://202.39.43.119/sta/ch9532017010664094.m3u8
-
-
-
+壹新聞,http://ottclub.sixu.ml:443/kitty/c558.stream/playlist.m3u8#http://m.nexttv.com.tw/mbr2.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c558.stream/playlist.m3u8#http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8
+年代新聞,http://ottclub.sixu.ml:443/fmts/n696.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8402.m3u8#http://cl5.ottclub.info:443/fmts/n696.stream/playlist.m3u8
+東森新聞,http://ottclub.sixu.ml:443/fmts/n697.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9103.m3u8
+中天新聞,http://ottclub.sixu.ml:443/fmts/n698.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n698.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9204.m3u8
+民視新聞,http://ottclub.sixu.ml:443/fmts/n699.stream/playlist.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23:80/hls/ftvtv/index.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8301.m3u8#http://cl5.ottclub.info:443/fmts/n699.stream/playlist.m3u8
 三立新聞,http://ottclub.sixu.ml:443/fmts/n700.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8302.m3u8#http://cl5.ottclub.info:443/fmts/n700.stream/playlist.m3u8
+TVBS新聞,http://ottclub.sixu.ml:443/fmts/n669.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9304.m3u8#http://cl5.ottclub.info:443/fmts/n669.stream/playlist.m3u8#http://120.198.231.208/168.1.24.125:5002/I-News_h264-1.m3u8?token=f0a79c8c0a137f7405a979e0978ae9f1#http://dlhls.cdn.zhanqi.tv/zqlive/inews.m3u8#http://168.1.24.125:5002/I-News_h264-1.m3u8?token=2f59d6ae742594a658c265739db3a61a
+TVBS,http://ottclub.sixu.ml:443/fmts/n670.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n670.stream/playlist.m3u8
+
+
+
+東森財經,http://ottclub.sixu.ml:443/fmts/n671.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9104.m3u8#http://cl5.ottclub.info:443/fmts/n671.stream/playlist.m3u8
+
+
+非凡新聞,http://ottclub.sixu.ml:443/water/c730.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n672.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9502.m3u8#http://cl5.ottclub.info:443/water/c730.stream/playlist.m3u8
+
+
+東森新聞美洲,p2p://207.238.82.30:9916/5491b3fb000e4e1c385815c549cc7aaf
+
+
+耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
 
 三立都會,http://ottclub.sixu.ml:443/fmts/n685.stream/playlist.m3u8
 三立都會,http://ottclub.sixu.ml:443/fmts/n685.stream/playlist.m3u8
@@ -60,10 +78,7 @@ MOMO1購物,http://202.39.43.119/stc/ch2017010665094.m3u8#http://202.39.43.119/s
 
 
 
-民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-民視新聞,http://210.61.56.23:80/hls/ftvtv/index.m3u8
-民視新聞,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8301.m3u8
-民視新聞,http://cl5.ottclub.info:443/fmts/n699.stream/playlist.m3u8
+
 
 
 
@@ -138,7 +153,6 @@ FOX-3體育,http://cl5.ottclub.info:443/water/c688.stream/playlist.m3u8
 
 
 
-TVBS,http://cl5.ottclub.info:443/fmts/n670.stream/playlist.m3u8
 
 TVB8,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8102.m3u8
 壹綜合,http://cl5.ottclub.info:443/water/c710.stream/playlist.m3u8
@@ -182,26 +196,11 @@ FOX警匪,http://cl5.ottclub.info:443/kitty/c703.stream/playlist.m3u8
 CineMax電影,http://cl5.ottclub.info:443/fmts/n680.stream/playlist.m3u8
 CatchPlay電影,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9501.m3u8
 CatchPlay電影,http://cl5.ottclub.info:443/water/c685.stream/playlist.m3u8
-壹新聞,http://cl5.ottclub.info:443/kitty/c558.stream/playlist.m3u8
-壹新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
-壹新聞,http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8
-壹新聞,http://m.nexttv.com.tw/mbr2.m3u8
-年代新聞,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8402.m3u8
-年代新聞,http://cl5.ottclub.info:443/fmts/n696.stream/playlist.m3u8
 
 
-東森新聞,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9103.m3u8
-東森財經,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9104.m3u8
-東森財經,http://cl5.ottclub.info:443/fmts/n671.stream/playlist.m3u8
-東森新聞美洲,p2p://207.238.82.30:9916/5491b3fb000e4e1c385815c549cc7aaf
-TVBS新聞,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9304.m3u8
-TVBS新聞,http://cl5.ottclub.info:443/fmts/n669.stream/playlist.m3u8
-中天新聞,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9204.m3u8
-中天新聞,http://cl5.ottclub.info:443/fmts/n698.stream/playlist.m3u8
-耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-非凡新聞,http://cl5.ottclub.info:443/fmts/n672.stream/playlist.m3u8
-非凡商業,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9502.m3u8
-非凡商業,http://cl5.ottclub.info:443/water/c730.stream/playlist.m3u8
+
+
+
 AniMax動漫,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8502.m3u8
 AniMax動漫,http://cl5.ottclub.info:443/kitty/c708.stream/playlist.m3u8
 
@@ -229,9 +228,7 @@ TVB翡翠(歐洲),http://168.1.24.125:5002/Jade_UK_h264-1.m3u8?token=6aba185e9b8
 TVB翡翠(戲劇),http://168.1.24.125:5002/Jade_hk_h264-1.m3u8?token=9bee2ebbead3d7c76ac457db6413892c
 TVB功夫,http://120.198.231.208/168.1.24.125:5002/Kungfu_h264-1.m3u8?token=931d3edd56c659111a1320d16cbd26ba
 TVB功夫,http://120.198.231.208/168.1.24.125:5002/Kungfu_h264-1.m3u8?token=f395d3c97195ae3ea125059ad64eed9b
-TVB新聞,http://120.198.231.208/168.1.24.125:5002/I-News_h264-1.m3u8?token=f0a79c8c0a137f7405a979e0978ae9f1
-TVB新聞,http://dlhls.cdn.zhanqi.tv/zqlive/inews.m3u8
-TVB新聞,http://168.1.24.125:5002/I-News_h264-1.m3u8?token=2f59d6ae742594a658c265739db3a61a
+
 HKTV,http://14.198.245.135:8080/enc2/02.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=f4128ed9dbf7996480dc22165bf32082&uid=1&vid=1&mxres=1312&s=f9f8f18f10b7a342b9c0c3a073f7b90c&cname=index2
 HKTV,http://ott-video-lb.hktvmall.com:8080/enc2/index2.m3u8?uid=1&vid=1&d=pc&t=12e9a7f66f3a892b396e94d81206eb6c&mxres=1920&net=&udid=a42bc0b5ac8dc21cb14f66924a25f468&ts=1490781543834&s=946bb57f716877923e428874131ede7a
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
