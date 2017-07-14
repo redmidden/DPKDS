@@ -72,6 +72,12 @@ AXN台灣,http://ottclub.sixu.ml:443/fmts/n677.stream/playlist.m3u8#http://tokyo
 CineMax電影,http://ottclub.sixu.ml:443/fmts/n680.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n680.stream/playlist.m3u8
 緯來育樂,http://ottclub.sixu.ml:443/fmts/n706.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n706.stream/playlist.m3u8
 緯來體育,http://ottclub.sixu.ml:443/fmts/n681.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9203.m3u8#http://cl5.ottclub.info:443/fmts/n681.stream/playlist.m3u8
+Fox體育,http://ottclub.sixu.ml:443/fmts/n682.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9301.m3u8#http://cl5.ottclub.info:443/fmts/n682.stream/playlist.m3u8
+Fox-2體育,http://ottclub.sixu.ml:443/fmts/n683.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9302.m3u8#http://cl5.ottclub.info:443/fmts/n683.stream/playlist.m3u8
+緯來日本,http://ottclub.sixu.ml:443/fmts/n684.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9602.m3u8
+
+
+
 
 美亞電影,http://ottclub.sixu.ml:443/kitty/c704.stream/playlist.m3u8
 
@@ -128,7 +134,7 @@ MOMO3購物,http://202.39.43.119/stc/ch2017010665096.m3u8
 
 
 
-緯來日本,http://ottclub.sixu.ml:443/fmts/n684.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9602.m3u8
+
 
 
 
@@ -193,10 +199,7 @@ FOX綜合,http://cl5.ottclub.info:443/water/c731.stream/playlist.m3u8
 博斯魅力,http://61.218.59.56/live/ch138/playlist.m3u8
 高爾夫,http://61.218.59.97/live/ch125/playlist.m3u8
 足球,http://61.218.59.97/live/ch126/playlist.m3u8
-Fox-1體育,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9301.m3u8
-Fox-1體育,http://cl5.ottclub.info:443/fmts/n682.stream/playlist.m3u8
-Fox-2體育,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9302.m3u8
-Fox-2體育,http://cl5.ottclub.info:443/fmts/n683.stream/playlist.m3u8
+
 FOX-3體育,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9404.m3u8
 FOX-3體育,http://cl5.ottclub.info:443/water/c688.stream/playlist.m3u8
 愛爾達體育,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9402.m3u8
