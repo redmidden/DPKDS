@@ -56,7 +56,8 @@ TVBS新聞,http://ottclub.sixu.ml:443/fmts/n669.stream/playlist.m3u8#http://toky
 TVBS,http://ottclub.sixu.ml:443/fmts/n670.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n670.stream/playlist.m3u8
 東森財經,http://ottclub.sixu.ml:443/fmts/n671.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9104.m3u8#http://cl5.ottclub.info:443/fmts/n671.stream/playlist.m3u8
 非凡新聞,http://ottclub.sixu.ml:443/fmts/n672.stream/playlist.m3u8
-Viva1購物,http://202.39.43.119/stc/ch2016112265091.m3u8#http://202.39.43.119/sta/ch9532016112264091.m3u8
+Viva1購物,http://202.39.43.119/stc/ch2016112265091.m3u8
+Viva1購物,http://202.39.43.119/sta/ch9532016112264091.m3u8
 東森5購物,http://202.39.43.119/stc/ch2016112265079.m3u8#http://202.39.43.119/sta/ch9532016112264079.m3u8
 東森4購物,http://202.39.43.119/stc/ch2016112265080.m3u8#http://202.39.43.119/sta/ch9532016112264080.m3u8
 衛視電影,http://ottclub.sixu.ml:443/fmts/n673.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n673.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8602.m3u8#http://cl5.ottclub.info:443/kitty/c722.stream/playlist.m3u8
