@@ -94,12 +94,10 @@ EVE夏娃(全大),http://ottclub.sixu.ml:443/water/c728.stream/playlist.m3u8
 FOX警匪(中華財經),http://ottclub.sixu.ml:443/kitty/c703.stream/playlist.m3u8
 
 美亞電影,http://cl5.ottclub.info:443/kitty/c704.stream/playlist.m3u8
+
 星衛HD電影,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8403.m3u8
 星衛HD電影,http://cl5.ottclub.info:443/water/c705.stream/playlist.m3u8
-衛視HD電影,
-衛視HD電影,
-衛視電影,
-衛視西片,
+Z頻道,http://ottclub.sixu.ml:443/kitty/c729.stream/playlist.m3u8
 星空衛視,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8103.m3u8
 好來塢電影,http://cl5.ottclub.info:443/fmts/n678.stream/playlist.m3u8
 HBO原創,http://cl5.ottclub.info:443/water/c725.stream/playlist.m3u8
@@ -109,7 +107,7 @@ HBOHD,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9604.m3u8
 HBOHD,http://cl5.ottclub.info:443/kitty/c726.stream/playlist.m3u8
 FOX家庭,http://cl5.ottclub.info:443/water/c702.stream/playlist.m3u8
 FOX警匪,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8601.m3u8
-
+NHK新聞,https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
 
 MOMO1購物,http://202.39.43.119/sta/ch9532017010664094.m3u8
 MOMO1購物,http://202.39.43.119/stc/ch2017010665094.m3u8
@@ -358,7 +356,7 @@ CGTN紀錄,http://27.254.63.162/stream/totnew.php?channel_id=b08a8052e6724bedba5
 好消息愛+好醫生,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8
 好消息少兒,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
 亞洲新聞,http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8
-NHK新聞,https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
+
 BBC新聞,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8504.m3u8
 BBC新聞,http://cl5.ottclub.info:443/kitty/c677.stream/playlist.m3u8
 
