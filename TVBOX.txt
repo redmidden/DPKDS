@@ -79,14 +79,19 @@ FOXHD,http://ottclub.sixu.ml:443/water/c731.stream/playlist.m3u8#http://cl5.ottc
 MTV HD,http://ottclub.sixu.ml:443/water/c686.stream/playlist.m3u8
 東森4購物,http://202.39.43.119/stc/ch2016112265080.m3u8#http://202.39.43.119/sta/ch9532016112264080.m3u8
 東森3購物,http://202.39.43.119/stc/ch2016112265078.m3u8#http://202.39.43.119/sta/ch9532016112264078.m3u8
-
 美亞電影(天良),http://ottclub.sixu.ml:443/kitty/c704.stream/playlist.m3u8
 星衛電影(世界衛星),http://ottclub.sixu.ml:443/water/c705.stream/playlist.m3u8
-
 Eleven HD,http://118.163.30.59:36570/hls/Q1G037.m3u8
+凱亞電視,http://202.39.43.119/stc/ch2017032865013.m3u8
+八大戲劇,http://ottclub.sixu.ml:443/fmts/n692.stream/playlist.m3u8
+CatchPlay(冠軍電視),http://ottclub.sixu.ml:443/water/c685.stream/playlist.m3u8
+寰宇財經(三立財經),http://ottclub.sixu.ml:443/fmts/n648.stream/playlist.m3u8
+非凡商業,http://ottclub.sixu.ml:443/water/c730.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n672.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9502.m3u8#http://cl5.ottclub.info:443/water/c730.stream/playlist.m3u8
+全球財經,http://202.39.43.119/stc/ch2017012465011.m3u8#http://202.39.43.119/sta/ch9532017012464011.m3u8
+中華財經,http://202.39.43.119/stc/ch2017012465009.m3u8#http://202.39.43.119/sta/ch9532017012464009.m3u8
 
-
-
+EVE夏娃(全大),http://ottclub.sixu.ml:443/water/c728.stream/playlist.m3u8
+FOX警匪(中華財經),http://ottclub.sixu.ml:443/kitty/c703.stream/playlist.m3u8
 
 美亞電影,http://cl5.ottclub.info:443/kitty/c704.stream/playlist.m3u8
 星衛HD電影,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8403.m3u8
@@ -118,7 +123,7 @@ MOMO3購物,http://202.39.43.119/stc/ch2017010665096.m3u8
 
 
 
-非凡商業,http://ottclub.sixu.ml:443/water/c730.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n672.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9502.m3u8#http://cl5.ottclub.info:443/water/c730.stream/playlist.m3u8
+
 
 
 東森新聞美洲,p2p://207.238.82.30:9916/5491b3fb000e4e1c385815c549cc7aaf
