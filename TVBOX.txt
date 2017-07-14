@@ -54,13 +54,65 @@ MOMO1購物,http://202.39.43.119/stc/ch2017010665094.m3u8#http://202.39.43.119/s
 三立新聞,http://ottclub.sixu.ml:443/fmts/n700.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8302.m3u8#http://cl5.ottclub.info:443/fmts/n700.stream/playlist.m3u8
 TVBS新聞,http://ottclub.sixu.ml:443/fmts/n669.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9304.m3u8#http://cl5.ottclub.info:443/fmts/n669.stream/playlist.m3u8#http://120.198.231.208/168.1.24.125:5002/I-News_h264-1.m3u8?token=f0a79c8c0a137f7405a979e0978ae9f1#http://dlhls.cdn.zhanqi.tv/zqlive/inews.m3u8#http://168.1.24.125:5002/I-News_h264-1.m3u8?token=2f59d6ae742594a658c265739db3a61a
 TVBS,http://ottclub.sixu.ml:443/fmts/n670.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n670.stream/playlist.m3u8
-
-
-
 東森財經,http://ottclub.sixu.ml:443/fmts/n671.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9104.m3u8#http://cl5.ottclub.info:443/fmts/n671.stream/playlist.m3u8
+非凡新聞,http://ottclub.sixu.ml:443/fmts/n672.stream/playlist.m3u8
+Viva1購物,http://202.39.43.119/stc/ch2016112265091.m3u8#http://202.39.43.119/sta/ch9532016112264091.m3u8
+東森5購物,http://202.39.43.119/stc/ch2016112265079.m3u8#http://202.39.43.119/sta/ch9532016112264079.m3u8
+東森4購物,http://202.39.43.119/stc/ch2016112265080.m3u8#http://202.39.43.119/sta/ch9532016112264080.m3u8
+衛視電影,http://ottclub.sixu.ml:443/fmts/n673.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n673.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8602.m3u8#http://cl5.ottclub.info:443/kitty/c722.stream/playlist.m3u8
+東森電影,http://ottclub.sixu.ml:443/fmts/n674.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9102.m3u8#http://cl5.ottclub.info:443/fmts/n674.stream/playlist.m3u8
+緯來電影,http://ottclub.sixu.ml:443/fmts/n675.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n675.stream/playlist.m3u8#
+靖天電影(LS TIME),http://ottclub.sixu.ml:443/water/c687.stream/playlist.m3u8
+HBOHD,http://ottclub.sixu.ml:443/kitty/c726.stream/playlist.m3u8
+東森洋片,http://ottclub.sixu.ml:443/fmts/n676.stream/playlist.m3u#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9201.m3u8#http://cl5.ottclub.info:443/fmts/n676.stream/playlist.m3u8
+好萊塢電影,http://ottclub.sixu.ml:443/fmts/n678.stream/playlist.m3u8
+AXN台灣,http://ottclub.sixu.ml:443/fmts/n677.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8503.m3u8#http://cl5.ottclub.info:443/fmts/n677.stream/playlist.m3u8
+CineMax電影,http://ottclub.sixu.ml:443/fmts/n680.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n680.stream/playlist.m3u8
+緯來育樂,http://ottclub.sixu.ml:443/fmts/n706.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n706.stream/playlist.m3u8
+緯來體育,http://ottclub.sixu.ml:443/fmts/n681.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9203.m3u8#http://cl5.ottclub.info:443/fmts/n681.stream/playlist.m3u8
+
+美亞電影,http://ottclub.sixu.ml:443/kitty/c704.stream/playlist.m3u8
+
+星衛電影,http://ottclub.sixu.ml:443/water/c705.stream/playlist.m3u8
 
 
-非凡新聞,http://ottclub.sixu.ml:443/water/c730.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n672.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9502.m3u8#http://cl5.ottclub.info:443/water/c730.stream/playlist.m3u8
+
+
+
+
+美亞電影,http://cl5.ottclub.info:443/kitty/c704.stream/playlist.m3u8
+星衛HD電影,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8403.m3u8
+星衛HD電影,http://cl5.ottclub.info:443/water/c705.stream/playlist.m3u8
+衛視HD電影,
+衛視HD電影,
+衛視電影,
+衛視西片,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8303.m3u8
+衛視西片,http://cl5.ottclub.info:443/fmts/n679.stream/playlist.m3u8
+星空衛視,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8103.m3u8
+好來塢電影,http://cl5.ottclub.info:443/fmts/n678.stream/playlist.m3u8
+HBO原創,http://cl5.ottclub.info:443/water/c725.stream/playlist.m3u8
+HBO強檔,http://cl5.ottclub.info:443/water/c720.stream/playlist.m3u8
+HBO溫馨,http://cl5.ottclub.info:443/water/c684.stream/playlist.m3u8
+HBOHD,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9604.m3u8
+HBOHD,http://cl5.ottclub.info:443/kitty/c726.stream/playlist.m3u8
+FOX家庭,http://cl5.ottclub.info:443/water/c702.stream/playlist.m3u8
+FOX警匪,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8601.m3u8
+
+
+MOMO1購物,http://202.39.43.119/sta/ch9532017010664094.m3u8
+MOMO1購物,http://202.39.43.119/stc/ch2017010665094.m3u8
+MOMO2購物,http://202.39.43.119/sta/ch9532017010664095.m3u8
+MOMO2購物,http://202.39.43.119/stc/ch2017010665095.m3u8
+MOMO3購物,http://202.39.43.119/sta/ch9532017010664096.m3u8
+MOMO3購物,http://202.39.43.119/stc/ch2017010665096.m3u8
+東森1購物,http://202.39.43.119/sta/ch9532016112264076.m3u8
+東森1購物,http://202.39.43.119/stc/ch2016112265076.m3u8
+東森2購物,http://202.39.43.119/sta/ch9532016112264077.m3u8
+東森3購物,http://202.39.43.119/sta/ch9532016112264078.m3u8
+東森3購物,http://202.39.43.119/stc/ch2016112265078.m3u8
+
+
+非凡商業,http://ottclub.sixu.ml:443/water/c730.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n672.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9502.m3u8#http://cl5.ottclub.info:443/water/c730.stream/playlist.m3u8
 
 
 東森新聞美洲,p2p://207.238.82.30:9916/5491b3fb000e4e1c385815c549cc7aaf
@@ -131,9 +183,8 @@ FOX綜合,http://cl5.ottclub.info:443/water/c731.stream/playlist.m3u8
 緯來美洲,p2p://207.238.82.38:9916/51b97c6400040d991bc1b78963077f1b
 
 
-緯來育樂,http://cl5.ottclub.info:443/fmts/n706.stream/playlist.m3u8
-緯來體育,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9203.m3u8
-緯來體育,http://cl5.ottclub.info:443/fmts/n681.stream/playlist.m3u8
+
+
 博斯高球,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9403.m3u8
 博斯高球Ⅱ,http://cl5.ottclub.info:443/kitty/c709.stream/playlist.m3u8
 博斯足球,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9504.m3u8
@@ -168,32 +219,9 @@ Z頻道,http://cl5.ottclub.info:443/kitty/c729.stream/playlist.m3u8
 靖天國際,http://cl5.ottclub.info:443/fmts/n644.stream/playlist.m3u8
 靖天Nice,http://cl5.ottclub.info:443/fmts/n645.stream/playlist.m3u8
 靖天綜合,http://cl5.ottclub.info:443/fmts/n642.stream/playlist.m3u8
-AXN台灣,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8503.m3u8
-AXN台灣,http://cl5.ottclub.info:443/fmts/n677.stream/playlist.m3u8
-東森電影,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9102.m3u8
-東森電影,http://cl5.ottclub.info:443/fmts/n674.stream/playlist.m3u8
-東森洋片,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9201.m3u8
-東森洋片,http://cl5.ottclub.info:443/fmts/n676.stream/playlist.m3u8
-緯來電影,http://cl5.ottclub.info:443/fmts/n675.stream/playlist.m3u8
-美亞電影,http://cl5.ottclub.info:443/kitty/c704.stream/playlist.m3u8
-星衛HD電影,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8403.m3u8
-星衛HD電影,http://cl5.ottclub.info:443/water/c705.stream/playlist.m3u8
-衛視HD電影,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8602.m3u8
-衛視HD電影,http://cl5.ottclub.info:443/kitty/c722.stream/playlist.m3u8
-衛視電影,http://cl5.ottclub.info:443/fmts/n673.stream/playlist.m3u8
-衛視西片,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8303.m3u8
-衛視西片,http://cl5.ottclub.info:443/fmts/n679.stream/playlist.m3u8
-星空衛視,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8103.m3u8
-好來塢電影,http://cl5.ottclub.info:443/fmts/n678.stream/playlist.m3u8
-HBO原創,http://cl5.ottclub.info:443/water/c725.stream/playlist.m3u8
-HBO強檔,http://cl5.ottclub.info:443/water/c720.stream/playlist.m3u8
-HBO溫馨,http://cl5.ottclub.info:443/water/c684.stream/playlist.m3u8
-HBOHD,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9604.m3u8
-HBOHD,http://cl5.ottclub.info:443/kitty/c726.stream/playlist.m3u8
-FOX家庭,http://cl5.ottclub.info:443/water/c702.stream/playlist.m3u8
-FOX警匪,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8601.m3u8
+
 FOX警匪,http://cl5.ottclub.info:443/kitty/c703.stream/playlist.m3u8
-CineMax電影,http://cl5.ottclub.info:443/fmts/n680.stream/playlist.m3u8
+
 CatchPlay電影,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9501.m3u8
 CatchPlay電影,http://cl5.ottclub.info:443/water/c685.stream/playlist.m3u8
 
