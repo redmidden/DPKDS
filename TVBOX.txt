@@ -80,10 +80,10 @@ MTV HD,http://ottclub.sixu.ml:443/water/c686.stream/playlist.m3u8
 東森4購物,http://202.39.43.119/stc/ch2016112265080.m3u8#http://202.39.43.119/sta/ch9532016112264080.m3u8
 東森3購物,http://202.39.43.119/stc/ch2016112265078.m3u8#http://202.39.43.119/sta/ch9532016112264078.m3u8
 
-美亞電影(LS TIME),http://ottclub.sixu.ml:443/kitty/c704.stream/playlist.m3u8
-星衛電影,http://ottclub.sixu.ml:443/water/c705.stream/playlist.m3u8
+美亞電影(天良),http://ottclub.sixu.ml:443/kitty/c704.stream/playlist.m3u8
+星衛電影(世界衛星),http://ottclub.sixu.ml:443/water/c705.stream/playlist.m3u8
 
-
+Eleven HD,http://118.163.30.59:36570/hls/Q1G037.m3u8
 
 
 
