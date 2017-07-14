@@ -43,9 +43,9 @@ TVBS歡樂,http://ottclub.sixu.ml:443/fmts/n693.stream/playlist.m3u8#http://toky
 緯來戲劇,http://ottclub.sixu.ml:443/fmts/n694.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8203.m3u8#http://cl5.ottclub.info:443/fmts/n694.stream/playlist.m3u8
 星衛娛樂(高點),http://ottclub.sixu.ml:443/kitty/c723.stream/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c723.stream/playlist.m3u8
 JET綜合,http://ottclub.sixu.ml:443/fmts/n695.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n695.stream/playlist.m3u8
-Viva1購物,http://202.39.43.119/sta/ch9532016112264091.m3u8#http://202.39.43.119/stc/ch2016112265091.m3u8
-東森1購物,http://202.39.43.119/sta/ch9532016112264076.m3u8#http://202.39.43.119/stc/ch2016112265076.m3u8
-MOMO1購物,http://202.39.43.119/sta/ch9532017010664094.m3u8#http://202.39.43.119/stc/ch2017010665094.m3u8
+Viva1購物,http://202.39.43.119/stc/ch2016112265091.m3u8#http://202.39.43.119/sta/ch9532016112264091.m3u8
+東森1購物,http://202.39.43.119/stc/ch2016112265076.m3u8#http://202.39.43.119/sta/ch9532016112264076.m3u8
+MOMO1購物,http://202.39.43.119/stc/ch2017010665094.m3u8#http://202.39.43.119/sta/ch9532017010664094.m3u8
 
 
 
