@@ -64,8 +64,9 @@ MOMO3購物,http://202.39.43.119/stc/ch2017010665096.m3u8#http://202.39.43.119/s
 LS TIME龍祥電影,http://118.163.30.59:36570/hls/B10C49.m3u8
 HBOHD,http://ottclub.sixu.ml:443/kitty/c726.stream/playlist.m3u8
 東森洋片,http://ottclub.sixu.ml:443/fmts/n676.stream/playlist.m3u#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9201.m3u8#http://cl5.ottclub.info:443/fmts/n676.stream/playlist.m3u8
-好萊塢電影,http://ottclub.sixu.ml:443/fmts/n678.stream/playlist.m3u8
 AXN台灣,http://ottclub.sixu.ml:443/fmts/n677.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8503.m3u8#http://cl5.ottclub.info:443/fmts/n677.stream/playlist.m3u8
+好萊塢電影,http://ottclub.sixu.ml:443/fmts/n678.stream/playlist.m3u8
+衛視西片,http://ottclub.sixu.ml:443/fmts/n679.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8303.m3u8#http://cl5.ottclub.info:443/fmts/n679.stream/playlist.m3u8
 CineMax電影,http://ottclub.sixu.ml:443/fmts/n680.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n680.stream/playlist.m3u8
 緯來育樂,http://ottclub.sixu.ml:443/fmts/n706.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n706.stream/playlist.m3u8
 緯來體育,http://ottclub.sixu.ml:443/fmts/n681.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9203.m3u8#http://cl5.ottclub.info:443/fmts/n681.stream/playlist.m3u8
@@ -77,7 +78,7 @@ ANIMAX動漫,http://ottclub.sixu.ml:443/kitty/c708.stream/playlist.m3u8#http://c
 FOXHD,http://ottclub.sixu.ml:443/water/c731.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c731.stream/playlist.m3u8
 MTV HD,http://ottclub.sixu.ml:443/water/c686.stream/playlist.m3u8
 東森4購物,http://202.39.43.119/stc/ch2016112265080.m3u8#http://202.39.43.119/sta/ch9532016112264080.m3u8
-東森3購物,http://202.39.43.119/sta/ch9532016112264078.m3u8#http://202.39.43.119/stc/ch2016112265078.m3u8
+東森3購物,http://202.39.43.119/stc/ch2016112265078.m3u8#http://202.39.43.119/sta/ch9532016112264078.m3u8
 
 美亞電影(LS TIME),http://ottclub.sixu.ml:443/kitty/c704.stream/playlist.m3u8
 星衛電影,http://ottclub.sixu.ml:443/water/c705.stream/playlist.m3u8
@@ -93,8 +94,7 @@ MTV HD,http://ottclub.sixu.ml:443/water/c686.stream/playlist.m3u8
 衛視HD電影,
 衛視HD電影,
 衛視電影,
-衛視西片,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8303.m3u8
-衛視西片,http://cl5.ottclub.info:443/fmts/n679.stream/playlist.m3u8
+衛視西片,
 星空衛視,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8103.m3u8
 好來塢電影,http://cl5.ottclub.info:443/fmts/n678.stream/playlist.m3u8
 HBO原創,http://cl5.ottclub.info:443/water/c725.stream/playlist.m3u8
