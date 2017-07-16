@@ -10,7 +10,7 @@ CNN International,http://ottclub.sixu.ml:443/fmts/n652.stream/playlist.m3u8#http
 中視,http://ottclub.sixu.ml:443/fmts/n702.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n702.stream/playlist.m3u8
 霹靂台灣,http://ottclub.sixu.ml:443/water/c673.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c673.stream/playlist.m3u8
 華視,http://ottclub.sixu.ml:443/fmts/n703.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n703.stream/playlist.m3u8
-公視,http://ottclub.sixu.ml:443/fmts/n704.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n704.stream/playlist.m3u8
+公視,http://118.163.30.59:36570/hls/B1009P.m3u8#http://ottclub.sixu.ml:443/fmts/n704.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n704.stream/playlist.m3u8
 公視2,http://ottclub.sixu.ml:443/fmts/n636.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n636.stream/playlist.m3u8
 好消息衛星電視台,http://live.streamingfast.net/osmflivech1.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 原住民族電視台,http://gcdn.3rd-evo.com/titv-live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8#http://202.39.43.119/stc/ch2016122965093.m3u8#http://202.39.43.119/sta/ch9532016122964093.m3u8
