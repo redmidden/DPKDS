@@ -4,7 +4,7 @@
 搞笑綜合,http://61.218.59.193/live/ch121/playlist.m3u8
 CNN International,http://ottclub.sixu.ml:443/fmts/n652.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n652.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/c672.stream/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c675.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9603.m3u8
 民視,http://202.39.43.119/stc/ch2016112265087.m3u8#http://118.163.30.59:36570/hls/TH0085.m3u8#http://ottclub.sixu.ml:443/fmts/n653.stream/playlist.m3u8
-人間衛視,120.198.235.42/202.39.43.117/sta/ch2017071064084043.m3u8#http://202.39.43.119/sta/ch9532016112264043.m3u8
+人間衛視,http://120.198.235.42/202.39.43.117/sta/ch2017071064084043.m3u8#http://202.39.43.119/sta/ch9532016112264043.m3u8
 台視,http://118.163.30.59:36570/hls/V100J7.m3u8#http://livewowza.ad2engage.com/ttvmainliveorigin/TTVMainStream/playlist.m3u8#http://ottclub.sixu.ml:443/fmts/n701.stream/playlist.m3u8
 大愛,http://ottclub.sixu.ml:443/water/c559.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c559.stream/playlist.m3u8
 中視,http://ottclub.sixu.ml:443/fmts/n702.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n702.stream/playlist.m3u8
