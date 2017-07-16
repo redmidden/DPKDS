@@ -26,7 +26,7 @@ MOMO親子,http://ottclub.sixu.ml:443/fmts/n711.stream/playlist.m3u8#http://cl5.
 緯來綜合,http://ottclub.sixu.ml:443/fmts/n713.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n713.stream/playlist.m3u8
 八大第一,http://ottclub.sixu.ml:443/water/c679.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c679.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n714.stream/playlist.m3u8
 八大綜合,http://ottclub.sixu.ml:443/fmts/n715.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n715.stream/playlist.m3u8
-三立台灣,http://118.163.30.59:36570/hls/H100X8.m3u8#http://ottclub.sixu.ml:443/fmts/n716.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8604.m3u8#http://cl5.ottclub.info:443/fmts/n716.stream/playlist.m3u8
+三立台灣,http://118.163.30.59:36570/hls/H100X8.m3u8#http://ottclub.sixu.ml:443/fmts/n716.stream/playlist.m3u8
 三立都會,http://ottclub.sixu.ml:443/fmts/n685.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9303.m3u8#http://cl5.ottclub.info:443/fmts/n685.stream/playlist.m3u8
 衛視中文,http://ottclub.sixu.ml:443/water/c713.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8204.m3u8#http://cl5.ottclub.info:443/water/c713.stream/playlist.m3u8#http://27.254.63.162/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
 東森綜合,http://ottclub.sixu.ml:443/fmts/n686.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8202.m3u8#http://cl5.ottclub.info:443/fmts/n686.stream/playlist.m3u8
