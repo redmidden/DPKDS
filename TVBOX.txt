@@ -88,7 +88,7 @@ CatchPlay(冠軍電視),http://ottclub.sixu.ml:443/water/c685.stream/playlist.m3
 寰宇財經(三立財經),http://ottclub.sixu.ml:443/fmts/n648.stream/playlist.m3u8
 非凡商業,http://ottclub.sixu.ml:443/water/c730.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n672.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9502.m3u8#http://cl5.ottclub.info:443/water/c730.stream/playlist.m3u8
 天良,http://120.198.235.42/202.39.43.117/sta/ch2017071064084001.m3u8
-中華財經,http://202.39.43.119/stc/ch2017012465009.m3u8#http://202.39.43.119/sta/ch9532017012464009.m3u8
+中華財經,http://120.198.235.42/202.39.43.117/sta/ch2017071064084009.m3u8#http://202.39.43.119/stc/ch2017012465009.m3u8#http://202.39.43.119/sta/ch9532017012464009.m3u8
 SBN全球财经台,http://120.198.235.42/202.39.43.117/sta/ch2017071064084011.m3u8
 全球財經,http://202.39.43.119/stc/ch2017012465011.m3u8#http://202.39.43.119/sta/ch9532017012464011.m3u8
 誠心電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071064084200.m3u8
