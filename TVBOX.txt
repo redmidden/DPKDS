@@ -10,8 +10,8 @@ CNN International,http://ottclub.sixu.ml:443/fmts/n652.stream/playlist.m3u8#http
 中視,http://118.163.30.59:36570/hls/XL0089.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071064084064.m3u8#http://ottclub.sixu.ml:443/fmts/n702.stream/playlist.m3u8
 霹靂台灣,http://ottclub.sixu.ml:443/water/c673.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c673.stream/playlist.m3u8
 華視,http://zb.16ie.com/west.php?id=hs#http://ottclub.sixu.ml:443/fmts/n703.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n703.stream/playlist.m3u8
-公視,http://118.163.30.59:36570/hls/B1009P.m3u8#http://ottclub.sixu.ml:443/fmts/n704.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n704.stream/playlist.m3u8
-公視2,http://120.198.235.42/202.39.43.117/sta/ch2017071064084086.m3u8#http://ottclub.sixu.ml:443/fmts/n636.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n636.stream/playlist.m3u8
+公視,http://rb1.ottclub.info:443/fmts/n704.stream/playlist.m3u8#http://118.163.30.59:36570/hls/B1009P.m3u8#http://ottclub.sixu.ml:443/fmts/n704.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n704.stream/playlist.m3u8
+公視2,http://120.198.235.42/202.39.43.117/sta/ch2017071064084086.m3u8#http://ottclub.sixu.ml:443/fmts/n636.stream/playlist.m3u8
 好消息衛星電視台,http://live.streamingfast.net/osmflivech1.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 原住民族電視台,http://gcdn.3rd-evo.com/titv-live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8#http://202.39.43.119/stc/ch2016122965093.m3u8#http://202.39.43.119/sta/ch9532016122964093.m3u8
 客家電視台,http://202.39.43.119/stc/ch2016112265085.m3u8#http://202.39.43.119/sta/ch9532016112264085.m3u8
@@ -111,7 +111,7 @@ FOX家庭,http://cl5.ottclub.info:443/water/c702.stream/playlist.m3u8
 FOX警匪,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8601.m3u8
 NHK新聞,https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
 
-中視新聞HD,https://redmidden.github.io/TVBOX/youtube_HD.php?id=ewtBJH-E3Yo|User-Agent=stagefright
+中視新聞HD,http://120.198.235.42/202.39.43.117/sta/ch2017071064084062.m3u8#https://redmidden.github.io/TVBOX/youtube_HD.php?id=ewtBJH-E3Yo|User-Agent=stagefright
 
 
 
