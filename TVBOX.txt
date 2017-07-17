@@ -21,9 +21,9 @@ TLC旅遊生活,http://ottclub.sixu.ml:443/fmts/n707.stream/playlist.m3u8#http:/
 動物星球,http://ottclub.sixu.ml:443/fmts/n708.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n708.stream/playlist.m3u8
 迪士尼,http://ottclub.sixu.ml:443/fmts/n710.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n710.stream/playlist.m3u8
 CARTON NETWORK,http://ottclub.sixu.ml:443/fmts/n709.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n709.stream/playlist.m3u8
-MOMO親子,http://ottclub.sixu.ml:443/fmts/n711.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n711.stream/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c675.stream/playlist.m3u8
+MOMO親子,http://zb.16ie.com/west.php?id=mmqz#http://ottclub.sixu.ml:443/fmts/n711.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n711.stream/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c675.stream/playlist.m3u8
 東森幼幼,http://zb.16ie.com/west.php?id=dsyy#http://118.163.30.59:36570/hls/D1002T.m3u8#http://ottclub.sixu.ml:443/fmts/n712.stream/playlist.m3u8
-緯來綜合,http://ottclub.sixu.ml:443/fmts/n713.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n713.stream/playlist.m3u8
+緯來綜合,http://zb.16ie.com/west.php?id=wlzh#http://ottclub.sixu.ml:443/fmts/n713.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n713.stream/playlist.m3u8
 八大第一,http://ottclub.sixu.ml:443/water/c679.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c679.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n714.stream/playlist.m3u8
 八大綜合,http://ottclub.sixu.ml:443/fmts/n715.stream/playlist.m3u8#http://118.163.30.59:36570/hls/H100X8.m3u8
 三立台灣,http://zb.16ie.com/west.php?id=sltw#http://cl5.ottclub.info:443/fmts/n715.stream/playlist.m3u8#http://ottclub.sixu.ml:443/fmts/n716.stream/playlist.m3u8
