@@ -22,7 +22,7 @@ TLC旅遊生活,http://ottclub.sixu.ml:443/fmts/n707.stream/playlist.m3u8#http:/
 迪士尼,http://ottclub.sixu.ml:443/fmts/n710.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n710.stream/playlist.m3u8
 CARTON NETWORK,http://ottclub.sixu.ml:443/fmts/n709.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n709.stream/playlist.m3u8
 MOMO親子,http://ottclub.sixu.ml:443/fmts/n711.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n711.stream/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c675.stream/playlist.m3u8
-東森幼幼,http://118.163.30.59:36570/hls/D1002T.m3u8#http://ottclub.sixu.ml:443/fmts/n712.stream/playlist.m3u8
+東森幼幼,http://zb.16ie.com/west.php?id=dsyy#http://118.163.30.59:36570/hls/D1002T.m3u8#http://ottclub.sixu.ml:443/fmts/n712.stream/playlist.m3u8
 緯來綜合,http://ottclub.sixu.ml:443/fmts/n713.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n713.stream/playlist.m3u8
 八大第一,http://ottclub.sixu.ml:443/water/c679.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c679.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n714.stream/playlist.m3u8
 八大綜合,http://ottclub.sixu.ml:443/fmts/n715.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n715.stream/playlist.m3u8
@@ -85,7 +85,7 @@ Eleven HD,http://118.163.30.59:36570/hls/Q1G037.m3u8
 凱亞電視,http://202.39.43.119/stc/ch2017032865013.m3u8
 八大戲劇,http://ottclub.sixu.ml:443/fmts/n692.stream/playlist.m3u8
 CatchPlay(冠軍電視),http://ottclub.sixu.ml:443/water/c685.stream/playlist.m3u8
-寰宇財經(三立財經),http://ottclub.sixu.ml:443/fmts/n648.stream/playlist.m3u8
+三立財經,http://zb.16ie.com/west.php?id=slcaijing
 非凡商業,http://ottclub.sixu.ml:443/water/c730.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n672.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9502.m3u8#http://cl5.ottclub.info:443/water/c730.stream/playlist.m3u8
 天良,http://120.198.235.42/202.39.43.117/sta/ch2017071064084001.m3u8
 中華財經,http://120.198.235.42/202.39.43.117/sta/ch2017071064084009.m3u8#http://202.39.43.119/stc/ch2017012465009.m3u8#http://202.39.43.119/sta/ch9532017012464009.m3u8
@@ -110,7 +110,7 @@ HBOHD,http://cl5.ottclub.info:443/kitty/c726.stream/playlist.m3u8
 FOX家庭,http://cl5.ottclub.info:443/water/c702.stream/playlist.m3u8
 FOX警匪,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8601.m3u8
 NHK新聞,https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
-
+寰宇財經,http://ottclub.sixu.ml:443/fmts/n648.stream/playlist.m3u8
 中視新聞HD,http://120.198.235.42/202.39.43.117/sta/ch2017071064084062.m3u8#https://redmidden.github.io/TVBOX/youtube_HD.php?id=ewtBJH-E3Yo|User-Agent=stagefright
 
 
