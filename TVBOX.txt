@@ -75,7 +75,7 @@ Fox-2體育,http://ottclub.sixu.ml:443/fmts/n683.stream/playlist.m3u8#http://tok
 緯來日本,http://zb.16ie.com/west.php?id=wlrb#http://ottclub.sixu.ml:443/fmts/n684.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9602.m3u8
 ANIMAX動漫,http://ottclub.sixu.ml:443/kitty/c708.stream/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c708.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8502.m3u8
 國興衛視,http://ottclub.sixu.ml:443/kitty/c701.stream/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c701.stream/playlist.m3u8
-FOXHD,http://ottclub.sixu.ml:443/water/c731.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c731.stream/playlist.m3u8
+FOXHD,http://zb.16ie.com/west.php?id=fox#http://zb.16ie.com/west.php?id=fxhd
 MTV HD,http://ottclub.sixu.ml:443/water/c686.stream/playlist.m3u8
 東森4購物,http://202.39.43.119/stc/ch2016112265080.m3u8#http://202.39.43.119/sta/ch9532016112264080.m3u8
 東森3購物,http://202.39.43.119/stc/ch2016112265078.m3u8#http://202.39.43.119/sta/ch9532016112264078.m3u8
@@ -105,9 +105,9 @@ Z頻道,http://ottclub.sixu.ml:443/kitty/c729.stream/playlist.m3u8
 HBO原創,http://zb.16ie.com/west.php?id=hboyc#http://cl5.ottclub.info:443/water/c725.stream/playlist.m3u8
 HBO強檔,http://zb.16ie.com/west.php?id=hboqd#http://cl5.ottclub.info:443/water/c720.stream/playlist.m3u8
 HBO溫馨,http://zb.16ie.com/west.php?id=hbowx#http://cl5.ottclub.info:443/water/c684.stream/playlist.m3u8
-
+NBA,http://zb.16ie.com/west.php?id=nba
 FOX家庭,http://cl5.ottclub.info:443/water/c702.stream/playlist.m3u8
-FOX警匪,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8601.m3u8
+FOX警匪,http://zb.16ie.com/west.php?id=foxjf#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8601.m3u8
 NHK新聞,https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
 寰宇財經,http://ottclub.sixu.ml:443/fmts/n648.stream/playlist.m3u8
 中視新聞HD,http://120.198.235.42/202.39.43.117/sta/ch2017071064084062.m3u8#https://redmidden.github.io/TVBOX/youtube_HD.php?id=ewtBJH-E3Yo|User-Agent=stagefright
