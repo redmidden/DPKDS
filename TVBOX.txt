@@ -67,7 +67,7 @@ HBO,http://zb.16ie.com/west.php?id=hbo
 AXN台灣,http://ottclub.sixu.ml:443/fmts/n677.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8503.m3u8#http://cl5.ottclub.info:443/fmts/n677.stream/playlist.m3u8
 好萊塢電影,http://ottclub.sixu.ml:443/fmts/n678.stream/playlist.m3u8
 衛視西片,http://zb.16ie.com/west.php?id=wsyp#http://ottclub.sixu.ml:443/fmts/n679.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8303.m3u8#http://cl5.ottclub.info:443/fmts/n679.stream/playlist.m3u8
-CineMax電影,http://ottclub.sixu.ml:443/fmts/n680.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n680.stream/playlist.m3u8
+CineMax電影,http://zb.16ie.com/west.php?id=cimax#http://ottclub.sixu.ml:443/fmts/n680.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n680.stream/playlist.m3u8
 緯來育樂,http://ottclub.sixu.ml:443/fmts/n706.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n706.stream/playlist.m3u8
 緯來體育,http://ottclub.sixu.ml:443/fmts/n681.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9203.m3u8#http://cl5.ottclub.info:443/fmts/n681.stream/playlist.m3u8
 Fox體育,http://ottclub.sixu.ml:443/fmts/n682.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9301.m3u8#http://cl5.ottclub.info:443/fmts/n682.stream/playlist.m3u8
