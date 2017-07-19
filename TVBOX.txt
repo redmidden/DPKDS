@@ -5,8 +5,8 @@
 CNN International,http://ottclub.sixu.ml:443/fmts/n652.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n652.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/c672.stream/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c675.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9603.m3u8
 民視,http://zb.16ie.com/west.php?id=ms#http://120.198.235.42/202.39.43.117/sta/ch2017071064084087.m3u8#http://202.39.43.119/stc/ch2016112265087.m3u8#http://118.163.30.59:36570/hls/TH0085.m3u8#http://ottclub.sixu.ml:443/fmts/n653.stream/playlist.m3u8
 人間衛視,http://120.198.235.42/202.39.43.117/sta/ch2017071064084043.m3u8#http://202.39.43.119/sta/ch9532016112264043.m3u8
-台視,http://118.163.30.59:36570/hls/V100J7.m3u8#http://livewowza.ad2engage.com/ttvmainliveorigin/TTVMainStream/playlist.m3u8#http://ottclub.sixu.ml:443/fmts/n701.stream/playlist.m3u8
-大愛,http://ottclub.sixu.ml:443/water/c559.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c559.stream/playlist.m3u8
+台視,http://livewowza.ad2engage.com/ttvmainliveorigin/TTVMainStream/playlist.m3u8
+大愛,http://zb.16ie.com/west.php?id=daai#http://ottclub.sixu.ml:443/water/c559.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c559.stream/playlist.m3u8
 中視,http://zb.16ie.com/west.php?id=zs#http://118.163.30.59:36570/hls/XL0089.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071064084064.m3u8#http://ottclub.sixu.ml:443/fmts/n702.stream/playlist.m3u8
 霹靂台灣,http://ottclub.sixu.ml:443/water/c673.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c673.stream/playlist.m3u8
 華視,http://zb.16ie.com/west.php?id=hs#http://ottclub.sixu.ml:443/fmts/n703.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n703.stream/playlist.m3u8
@@ -111,7 +111,26 @@ FOX警匪,http://zb.16ie.com/west.php?id=foxjf#http://tokyo.tv-bar.net/streams/h
 NHK新聞,https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
 寰宇財經,http://ottclub.sixu.ml:443/fmts/n648.stream/playlist.m3u8
 中視新聞HD,http://120.198.235.42/202.39.43.117/sta/ch2017071064084062.m3u8#https://redmidden.github.io/TVBOX/youtube_HD.php?id=ewtBJH-E3Yo|User-Agent=stagefright
-
+JSport2,http://zb.16ie.com/west.php?id=jss2
+JSport1,http://zb.16ie.com/west.php?id=jss1
+SBS,http://zb.16ie.com/west.php?id=sbs
+KIDS,http://zb.16ie.com/west.php?id=kids
+NHK-ETV,http://zb.16ie.com/west.php?id=nhk
+TOKYOMX,http://zb.16ie.com/west.php?id=tokyomx
+富士电视
+,http://zb.16ie.com/west.php?id=jp2
+日本电视
+,http://zb.16ie.com/west.php?id=jp3
+电视
+朝日,http://zb.16ie.com/west.php?id=jp4
+电视東京,http://zb.16ie.com/west.php?id=jp5
+TBS电视,http://zb.16ie.com/west.php?id=tbs
+NHK综合,http://zb.16ie.com/west.php?id=nhkzh
+KBSNSPORT,http://zb.16ie.com/west.php?id=kbsty
+韩国娱乐台,http://zb.16ie.com/west.php?id=hgyl
+日本台,http://zb.16ie.com/west.php?id=rbt
+富士台,http://zb.16ie.com/west.php?id=fst
+罪案侦缉频道,http://zb.16ie.com/west.php?id=jp6
 
 
 
