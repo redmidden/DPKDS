@@ -62,7 +62,7 @@ MOMO3購物,http://202.39.43.119/stc/ch2017010665096.m3u8#http://202.39.43.119/s
 東森電影,http://zb.16ie.com/west.php?id=dsdy#http://ottclub.sixu.ml:443/fmts/n674.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9102.m3u8#http://cl5.ottclub.info:443/fmts/n674.stream/playlist.m3u8
 緯來電影,http://ottclub.sixu.ml:443/fmts/n675.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n675.stream/playlist.m3u8#
 LS TIME龍祥電影,http://118.163.30.59:36570/hls/B10C49.m3u8
-HBOHD,http://ottclub.sixu.ml:443/kitty/c726.stream/playlist.m3u8
+HBO,http://zb.16ie.com/west.php?id=hbo
 東森洋片,http://zb.16ie.com/west.php?id=dsyp#http://ottclub.sixu.ml:443/fmts/n676.stream/playlist.m3u#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9201.m3u8#http://cl5.ottclub.info:443/fmts/n676.stream/playlist.m3u8
 AXN台灣,http://ottclub.sixu.ml:443/fmts/n677.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8503.m3u8#http://cl5.ottclub.info:443/fmts/n677.stream/playlist.m3u8
 好萊塢電影,http://ottclub.sixu.ml:443/fmts/n678.stream/playlist.m3u8
@@ -102,11 +102,10 @@ EVE夏娃(全大),http://ottclub.sixu.ml:443/water/c728.stream/playlist.m3u8
 Z頻道,http://ottclub.sixu.ml:443/kitty/c729.stream/playlist.m3u8
 星空衛視,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8103.m3u8
 好來塢電影,http://cl5.ottclub.info:443/fmts/n678.stream/playlist.m3u8
-HBO原創,http://cl5.ottclub.info:443/water/c725.stream/playlist.m3u8
-HBO強檔,http://cl5.ottclub.info:443/water/c720.stream/playlist.m3u8
-HBO溫馨,http://cl5.ottclub.info:443/water/c684.stream/playlist.m3u8
-HBOHD,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9604.m3u8
-HBOHD,http://cl5.ottclub.info:443/kitty/c726.stream/playlist.m3u8
+HBO原創,http://zb.16ie.com/west.php?id=hboyc#http://cl5.ottclub.info:443/water/c725.stream/playlist.m3u8
+HBO強檔,http://zb.16ie.com/west.php?id=hboqd#http://cl5.ottclub.info:443/water/c720.stream/playlist.m3u8
+HBO溫馨,http://zb.16ie.com/west.php?id=hbowx#http://cl5.ottclub.info:443/water/c684.stream/playlist.m3u8
+
 FOX家庭,http://cl5.ottclub.info:443/water/c702.stream/playlist.m3u8
 FOX警匪,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8601.m3u8
 NHK新聞,https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
