@@ -61,16 +61,16 @@ MOMO3購物,http://202.39.43.119/stc/ch2017010665096.m3u8#http://202.39.43.119/s
 衛視電影,http://zb.16ie.com/west.php?id=wsdy#http://ottclub.sixu.ml:443/fmts/n673.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n673.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8602.m3u8#http://cl5.ottclub.info:443/kitty/c722.stream/playlist.m3u8
 東森電影,http://zb.16ie.com/west.php?id=dsdy#http://ottclub.sixu.ml:443/fmts/n674.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9102.m3u8#http://cl5.ottclub.info:443/fmts/n674.stream/playlist.m3u8
 緯來電影,http://ottclub.sixu.ml:443/fmts/n675.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n675.stream/playlist.m3u8#
-LS TIME龍祥電影,http://118.163.30.59:36570/hls/B10C49.m3u8
+LS TIME龍祥電影,http://zb.16ie.com/west.php?id=lxdy
 HBO,http://zb.16ie.com/west.php?id=hbo
-東森洋片,http://zb.16ie.com/west.php?id=dsyp#http://ottclub.sixu.ml:443/fmts/n676.stream/playlist.m3u#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9201.m3u8#http://cl5.ottclub.info:443/fmts/n676.stream/playlist.m3u8
-AXN台灣,http://ottclub.sixu.ml:443/fmts/n677.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8503.m3u8#http://cl5.ottclub.info:443/fmts/n677.stream/playlist.m3u8
+東森洋片,http://zb.16ie.com/west.php?id=dsyp
+AXN台灣,http://zb.16ie.com/west.php?id=axntw
 好萊塢電影,http://zb.16ie.com/west.php?id=haolw#http://ottclub.sixu.ml:443/fmts/n678.stream/playlist.m3u8
 衛視西片,http://zb.16ie.com/west.php?id=wsyp#http://ottclub.sixu.ml:443/fmts/n679.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8303.m3u8#http://cl5.ottclub.info:443/fmts/n679.stream/playlist.m3u8
 CineMax電影,http://zb.16ie.com/west.php?id=cimax#http://ottclub.sixu.ml:443/fmts/n680.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n680.stream/playlist.m3u8
 緯來育樂,http://ottclub.sixu.ml:443/fmts/n706.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n706.stream/playlist.m3u8
-緯來體育,http://zb.16ie.com/west.php?id=wlty#http://ottclub.sixu.ml:443/fmts/n681.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9203.m3u8#http://cl5.ottclub.info:443/fmts/n681.stream/playlist.m3u8
-Fox體育,http://ottclub.sixu.ml:443/fmts/n682.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9301.m3u8#http://cl5.ottclub.info:443/fmts/n682.stream/playlist.m3u8
+緯來體育,http://zb.16ie.com/west.php?id=wlty
+Fox體育,http://zb.16ie.com/west.php?id=foxty
 Fox-2體育,http://ottclub.sixu.ml:443/fmts/n683.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9302.m3u8#http://cl5.ottclub.info:443/fmts/n683.stream/playlist.m3u8
 緯來日本,http://zb.16ie.com/west.php?id=wlrb#http://ottclub.sixu.ml:443/fmts/n684.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9602.m3u8
 ANIMAX動漫,http://ottclub.sixu.ml:443/kitty/c708.stream/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c708.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8502.m3u8
@@ -94,8 +94,8 @@ SBN全球财经台,http://120.198.235.42/202.39.43.117/sta/ch2017071064084011.m3
 誠心電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071064084200.m3u8
 信吉電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071064084002.m3u8
 FOX警匪(中華財經),http://ottclub.sixu.ml:443/kitty/c703.stream/playlist.m3u8
-LTV龍華電影台,http://120.198.235.42/202.39.43.117/sta/ch2017071064084022.m3u8
-美亞電影,http/cl5.ottclub.info:443/kitty/c704.stream/playlist.m3u8
+LTV龍華電影台,http://zb.16ie.com/west.php?id=lhdy
+美亞電影,http://zb.16ie.com/west.php?id=mydy
 EVE夏娃(全大),http://ottclub.sixu.ml:443/water/c728.stream/playlist.m3u8
 星衛HD電影,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8403.m3u8
 星衛HD電影,http://cl5.ottclub.info:443/water/c705.stream/playlist.m3u8
@@ -106,7 +106,7 @@ HBO強檔,http://zb.16ie.com/west.php?id=hboqd#http://cl5.ottclub.info:443/water
 HBO溫馨,http://zb.16ie.com/west.php?id=hbowx#http://cl5.ottclub.info:443/water/c684.stream/playlist.m3u8
 NBA,http://zb.16ie.com/west.php?id=nba
 FX HD,http://zb.16ie.com/west.php?id=fxhd
-FOX家庭,http://cl5.ottclub.info:443/water/c702.stream/playlist.m3u8
+FOX家庭,http://zb.16ie.com/west.php?id=foxjt
 FOX警匪,http://zb.16ie.com/west.php?id=foxjf#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8601.m3u8
 NHK新聞,https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
 寰宇財經,http://ottclub.sixu.ml:443/fmts/n648.stream/playlist.m3u8
