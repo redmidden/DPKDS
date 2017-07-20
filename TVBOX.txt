@@ -23,8 +23,8 @@ TLC旅遊生活,http://zb.16ie.com/west.php?id=tlc
 CTNETWORK,http://zb.16ie.com/west.php?id=cnkt
 MOMO親子,http://zb.16ie.com/west.php?id=mmqz
 東森幼幼,http://zb.16ie.com/west.php?id=dsyy
-緯來綜合,http://zb.16ie.com/west.php?id=wlzh#http://ottclub.sixu.ml:443/fmts/n713.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n713.stream/playlist.m3u8
-八大第一,http://zb.16ie.com/west.php?id=bddy#http://cl5.ottclub.info:443/water/c679.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n714.stream/playlist.m3u8
+緯來綜合,http://zb.16ie.com/west.php?id=wlzh
+八大第一,http://zb.16ie.com/west.php?id=bddy
 八大綜合,http://zb.16ie.com/west.php?id=dbzh
 三立台灣,http://zb.16ie.com/west.php?id=sltw
 三立都會,http://zb.16ie.com/west.php?id=sldh
@@ -41,7 +41,7 @@ MOMO2購物,http://202.39.43.119/sta/ch9532017010664095.m3u8#http://202.39.43.11
 八大戲劇,http://ottclub.sixu.ml:443/fmts/n692.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9601.m3u8#http://cl5.ottclub.info:443/fmts/n692.stream/playlist.m3u8
 TVBS歡樂,http://zb.16ie.com/west.php?id=tvbshl
 緯來戲劇,http://ottclub.sixu.ml:443/fmts/n694.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8203.m3u8#http://cl5.ottclub.info:443/fmts/n694.stream/playlist.m3u8
-星衛娛樂(高點),http://ottclub.sixu.ml:443/kitty/c723.stream/playlist.m3u8#http://cl5.ottclub.info:443/kitty/c723.stream/playlist.m3u8
+星衛娛樂(高點),http://zb.16ie.com/west.php?id=xwyl
 JET綜合,http://zb.16ie.com/west.php?id=jetzh
 Viva1購物,http://202.39.43.119/stc/ch2016112265091.m3u8#http://202.39.43.119/sta/ch9532016112264091.m3u8
 東森1購物,http://202.39.43.119/stc/ch2016112265076.m3u8#http://202.39.43.119/sta/ch9532016112264076.m3u8
