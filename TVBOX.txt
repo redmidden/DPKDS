@@ -11,7 +11,7 @@ CNN International,http://zb.16ie.com/west.php?id=cnn#http://cl5.ottclub.info:443
 霹靂台灣,http://ottclub.sixu.ml:443/water/c673.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c673.stream/playlist.m3u8
 華視,http://zb.16ie.com/west.php?id=hs
 公視,http://zb.16ie.com/west.php?id=gs
-公視2,http://120.198.235.42/202.39.43.117/sta/ch2017071064084086.m3u8#http://ottclub.sixu.ml:443/fmts/n636.stream/playlist.m3u8
+公視2,http://120.198.235.42/202.39.43.117/sta/ch2017071864084086.m3u8#http://ottclub.sixu.ml:443/fmts/n636.stream/playlist.m3u8
 好消息衛星電視台,http://live.streamingfast.net/osmflivech1.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 原住民族電視台,http://gcdn.3rd-evo.com/titv-live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8#http://202.39.43.119/stc/ch2016122965093.m3u8#http://202.39.43.119/sta/ch9532016122964093.m3u8
 客家電視台,http://202.39.43.119/stc/ch2016112265085.m3u8#http://202.39.43.119/sta/ch9532016112264085.m3u8
