@@ -88,9 +88,9 @@ CatchPlay(冠軍電視),http://ottclub.sixu.ml:443/water/c685.stream/playlist.m3
 三立財經,http://zb.16ie.com/west.php?id=slcaijing
 非凡商業,http://ottclub.sixu.ml:443/water/c730.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n672.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9502.m3u8#http://cl5.ottclub.info:443/water/c730.stream/playlist.m3u8
 天良,http://120.198.235.42/202.39.43.117/sta/ch2017071064084001.m3u8
-中華財經,http://120.198.235.42/202.39.43.117/sta/ch2017071064084009.m3u8#http://202.39.43.119/stc/ch2017012465009.m3u8#http://202.39.43.119/sta/ch9532017012464009.m3u8
-SBN全球财经台,http://120.198.235.42/202.39.43.117/sta/ch2017071064084011.m3u8
-全球財經,http://202.39.43.119/stc/ch2017012465011.m3u8#http://202.39.43.119/sta/ch9532017012464011.m3u8
+中華財經台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084009.m3u8
+SBN全球財經臺,http://120.198.235.42/202.39.43.117/sta/ch2017071864084011.m3u8
+SBN全球財經臺,http://120.198.235.42/202.39.43.117/sta/ch2017071864084011.m3u8
 誠心電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071064084200.m3u8
 信吉電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084002.m3u8
 FOX警匪(中華財經),http://ottclub.sixu.ml:443/kitty/c703.stream/playlist.m3u8
@@ -99,11 +99,13 @@ LTV龍華電影台,http://zb.16ie.com/west.php?id=lhdy
 EVE夏娃(全大),http://ottclub.sixu.ml:443/water/c728.stream/playlist.m3u8
 臺灣藝術台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084013.m3u8
 華藏衛星電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084016.m3u8
-Z頻道,http://ottclub.sixu.ml:443/kitty/c729.stream/playlist.m3u8
+唯心電視臺,http://120.198.235.42/202.39.43.117/sta/ch2017071864084012.m3u8
 生命電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084010.m3u8
 HBO原創,http://zb.16ie.com/west.php?id=hboyc#http://cl5.ottclub.info:443/water/c725.stream/playlist.m3u8
 信大電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084201.m3u8
 HBO溫馨,http://zb.16ie.com/west.php?id=hbowx#http://cl5.ottclub.info:443/water/c684.stream/playlist.m3u8
+公視3,http://cl5.ottclub.info:443/fmts/n637.stream/playlist.m3u8
+民視臺灣台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084090.m3u8
 NBA,http://zb.16ie.com/west.php?id=nba
 FX HD,http://zb.16ie.com/west.php?id=fxhd
 FOX家庭,http://zb.16ie.com/west.php?id=foxjt
@@ -131,7 +133,7 @@ KBSNSPORT,http://zb.16ie.com/west.php?id=kbsty
 日本台,http://zb.16ie.com/west.php?id=rbt
 富士台,http://zb.16ie.com/west.php?id=fst
 罪案侦缉频道,http://zb.16ie.com/west.php?id=jp6
-民視臺灣臺,http://120.198.235.42/202.39.43.117/sta/ch2017071864084090.m3u8
+
 
 
 
@@ -164,12 +166,11 @@ KBSNSPORT,http://zb.16ie.com/west.php?id=kbsty
 
 國家地理野生,http://ottclub.sixu.ml:443/kitty/c707.stream/playlist.m3u8
 華視美洲,p2p://207.238.82.38:9916/51b97ba8000c65d41bbedb4c56ad01b3
-民視綜合,http://cl5.ottclub.info:443/water/c678.stream/playlist.m3u8
-民視綜合,http://cl5.ottclub.info:443/water/c560.stream/playlist.m3u8
+
 民視美洲,p2p://207.238.82.38:9916/51aea8a600029f63e83ff5493b03319a
 
 
-公視3,http://cl5.ottclub.info:443/fmts/n637.stream/playlist.m3u8
+
 
 BBC生活時尚,http://cl5.ottclub.info:443/kitty/c719.stream/playlist.m3u8
 
