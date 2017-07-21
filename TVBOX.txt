@@ -30,7 +30,8 @@ MOMO親子,http://zb.16ie.com/west.php?id=mmqz
 三立都會,http://zb.16ie.com/west.php?id=sldh
 衛視中文,http://zb.16ie.com/west.php?id=wszw
 東森綜合,http://zb.16ie.com/west.php?id=dszh
-纬来综合,視,http://118.163.30.59:36570/hls/JZ0030.m3u8#http://ottclub.sixu.ml:443/fmts/n687.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n687.stream/playlist.m3u8
+超視,
+緯來综合,視,http://118.163.30.59:36570/hls/JZ0030.m3u8#http://ottclub.sixu.ml:443/fmts/n687.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n687.stream/playlist.m3u8
 東森2購物,http://202.39.43.119/sta/ch9532016112264077.m3u8
 MOMO2購物,http://202.39.43.119/sta/ch9532017010664095.m3u8#http://202.39.43.119/stc/ch2017010665095.m3u8
 中天綜合,http://zb.16ie.com/west.php?id=ztzh
@@ -56,7 +57,7 @@ TVBS新聞,http://zb.16ie.com/west.php?id=tvbsxw
 TVBS,http://ottclub.sixu.ml:443/fmts/n670.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n670.stream/playlist.m3u8
 東森財經,http://zb.16ie.com/west.php?id=dsjc#http://ottclub.sixu.ml:443/fmts/n671.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9104.m3u8#http://cl5.ottclub.info:443/fmts/n671.stream/playlist.m3u8
 非凡新聞,http://zb.16ie.com/west.php?id=ffxw#http://ottclub.sixu.ml:443/fmts/n672.stream/playlist.m3u8
-MOMO3購物,http://202.39.43.119/stc/ch2017010665096.m3u8#http://202.39.43.119/sta/ch9532017010664096.m3u8
+Viva1台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084091.m3u8
 東森5購物,http://202.39.43.119/stc/ch2016112265079.m3u8#http://202.39.43.119/sta/ch9532016112264079.m3u8
 衛視電影,http://zb.16ie.com/west.php?id=wsdy#http://ottclub.sixu.ml:443/fmts/n673.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n673.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8602.m3u8#http://cl5.ottclub.info:443/kitty/c722.stream/playlist.m3u8
 東森電影,http://zb.16ie.com/west.php?id=dsdy#http://ottclub.sixu.ml:443/fmts/n674.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9102.m3u8#http://cl5.ottclub.info:443/fmts/n674.stream/playlist.m3u8
@@ -79,7 +80,7 @@ FOXHD,http://zb.16ie.com/west.php?id=fox
 MTV HD,http://ottclub.sixu.ml:443/water/c686.stream/playlist.m3u8
 東森4購物,http://202.39.43.119/stc/ch2016112265080.m3u8#http://202.39.43.119/sta/ch9532016112264080.m3u8
 東森3購物,http://202.39.43.119/stc/ch2016112265078.m3u8#http://202.39.43.119/sta/ch9532016112264078.m3u8
-美亞電影(天良),http://ottclub.sixu.ml:443/kitty/c704.stream/playlist.m3u8
+天良綜合台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084001.m3u8
 星衛電影(世界衛星),http://zb.16ie.com/west.php?id=xwdy#http://ottclub.sixu.ml:443/water/c705.stream/playlist.m3u8
 Eleven HD,http://118.163.30.59:36570/hls/Q1G037.m3u8
 凱亞電視,http://202.39.43.119/stc/ch2017032865013.m3u8
