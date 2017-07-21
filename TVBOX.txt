@@ -3,18 +3,18 @@
 奇妙電視,http://61.10.2.137/live_fantv/_definst_/fantv77_h.live/playlist.m3u8
 搞笑綜合,http://61.218.59.193/live/ch121/playlist.m3u8
 CNN International,http://zb.16ie.com/west.php?id=cnn#http://cl5.ottclub.info:443/kitty/c675.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9603.m3u8
-民視,http://zb.16ie.com/west.php?id=ms
+民視,http://120.198.235.42/202.39.43.117/sta/ch2017071864084087.m3u8
 人間衛視,http://120.198.235.42/202.39.43.117/sta/ch2017071864084043.m3u8
-台視,http://livewowza.ad2engage.com/ttvmainliveorigin/TTVMainStream/playlist.m3u8
+台視,http://livewowza.ad2engage.com/ttvmainliveorigin/TTVMainStream/playlist.m3u8#
 大愛,http://zb.16ie.com/west.php?id=daai
-中視,http://zb.16ie.com/west.php?id=zs
+中視,http://120.198.235.42/202.39.43.117/sta/ch2017071864084064.m3u8
 霹靂台灣,http://ottclub.sixu.ml:443/water/c673.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c673.stream/playlist.m3u8
 華視,http://zb.16ie.com/west.php?id=hs
 公視,http://zb.16ie.com/west.php?id=gs
 公視2,http://120.198.235.42/202.39.43.117/sta/ch2017071864084086.m3u8#http://ottclub.sixu.ml:443/fmts/n636.stream/playlist.m3u8
 好消息衛星電視台,http://live.streamingfast.net/osmflivech1.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
-原住民族電視台,http://gcdn.3rd-evo.com/titv-live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8#http://202.39.43.119/stc/ch2016122965093.m3u8#http://202.39.43.119/sta/ch9532016122964093.m3u8
-客家電視台,http://202.39.43.119/stc/ch2016112265085.m3u8#http://202.39.43.119/sta/ch9532016112264085.m3u8
+原住民族電視台,http://gcdn.3rd-evo.com/titv-live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084093.m3u8
+客家電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084085.m3u8
 國家地理頻道,http://zb.16ie.com/west.php?id=gjdl
 DISCOVERY,http://zb.16ie.com/west.php?id=tskx
 TLC旅遊生活,http://zb.16ie.com/west.php?id=tlc
@@ -51,7 +51,7 @@ MOMO1購物,http://202.39.43.119/stc/ch2017010665094.m3u8#http://202.39.43.119/s
 東森新聞,http://zb.16ie.com/west.php?id=dsxw
 中天新聞,http://zb.16ie.com/west.php?id=ztxw
 民視新聞,http://zb.16ie.com/west.php?id=msxw
-三立新聞,http://zb.16ie.com/west.php?id=slxw
+三立新聞,http://120.198.235.42/202.39.43.117/sta/ch2017071864084088.m3u8
 TVBS新聞,http://zb.16ie.com/west.php?id=tvbsxw
 TVBS,http://ottclub.sixu.ml:443/fmts/n670.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n670.stream/playlist.m3u8
 東森財經,http://zb.16ie.com/west.php?id=dsjc#http://ottclub.sixu.ml:443/fmts/n671.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9104.m3u8#http://cl5.ottclub.info:443/fmts/n671.stream/playlist.m3u8
@@ -92,7 +92,7 @@ CatchPlay(冠軍電視),http://ottclub.sixu.ml:443/water/c685.stream/playlist.m3
 SBN全球财经台,http://120.198.235.42/202.39.43.117/sta/ch2017071064084011.m3u8
 全球財經,http://202.39.43.119/stc/ch2017012465011.m3u8#http://202.39.43.119/sta/ch9532017012464011.m3u8
 誠心電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071064084200.m3u8
-信吉電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071064084002.m3u8
+信吉電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084002.m3u8
 FOX警匪(中華財經),http://ottclub.sixu.ml:443/kitty/c703.stream/playlist.m3u8
 LTV龍華電影台,http://zb.16ie.com/west.php?id=lhdy
 美亞電影,http://zb.16ie.com/west.php?id=mydy
@@ -131,18 +131,10 @@ KBSNSPORT,http://zb.16ie.com/west.php?id=kbsty
 日本台,http://zb.16ie.com/west.php?id=rbt
 富士台,http://zb.16ie.com/west.php?id=fst
 罪案侦缉频道,http://zb.16ie.com/west.php?id=jp6
+民視臺灣臺,http://120.198.235.42/202.39.43.117/sta/ch2017071864084090.m3u8
 
 
 
-MOMO1購物,http://202.39.43.119/sta/ch9532017010664094.m3u8
-MOMO1購物,http://202.39.43.119/stc/ch2017010665094.m3u8
-MOMO2購物,http://202.39.43.119/sta/ch9532017010664095.m3u8
-MOMO2購物,http://202.39.43.119/stc/ch2017010665095.m3u8
-MOMO3購物,http://202.39.43.119/sta/ch9532017010664096.m3u8
-MOMO3購物,http://202.39.43.119/stc/ch2017010665096.m3u8
-東森1購物,http://202.39.43.119/sta/ch9532016112264076.m3u8
-東森1購物,http://202.39.43.119/stc/ch2016112265076.m3u8
-東森2購物,http://202.39.43.119/sta/ch9532016112264077.m3u8
 
 
 
