@@ -97,12 +97,12 @@ FOX警匪(中華財經),http://ottclub.sixu.ml:443/kitty/c703.stream/playlist.m3
 LTV龍華電影台,http://zb.16ie.com/west.php?id=lhdy
 美亞電影,http://zb.16ie.com/west.php?id=mydy
 EVE夏娃(全大),http://ottclub.sixu.ml:443/water/c728.stream/playlist.m3u8
-星衛HD電影,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8403.m3u8
-星衛HD電影,http://cl5.ottclub.info:443/water/c705.stream/playlist.m3u8
+臺灣藝術台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084013.m3u8
+華藏衛星電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084016.m3u8
 Z頻道,http://ottclub.sixu.ml:443/kitty/c729.stream/playlist.m3u8
-星空衛視,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8103.m3u8
+生命電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084010.m3u8
 HBO原創,http://zb.16ie.com/west.php?id=hboyc#http://cl5.ottclub.info:443/water/c725.stream/playlist.m3u8
-HBO強檔,http://zb.16ie.com/west.php?id=hboqd#http://cl5.ottclub.info:443/water/c720.stream/playlist.m3u8
+信大電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084201.m3u8
 HBO溫馨,http://zb.16ie.com/west.php?id=hbowx#http://cl5.ottclub.info:443/water/c684.stream/playlist.m3u8
 NBA,http://zb.16ie.com/west.php?id=nba
 FX HD,http://zb.16ie.com/west.php?id=fxhd
