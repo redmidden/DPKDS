@@ -3,22 +3,22 @@
 奇妙電視,http://61.10.2.137/live_fantv/_definst_/fantv77_h.live/playlist.m3u8
 搞笑綜合,http://61.218.59.193/live/ch121/playlist.m3u8
 CNN International,http://zb.16ie.com/west.php?id=cnn#http://cl5.ottclub.info:443/kitty/c675.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9603.m3u8
-民視,http://120.198.235.42/202.39.43.117/sta/ch2017071864084087.m3u8
+民視,http://120.198.235.42/202.39.43.117/sta/ch2017071864084087.m3u8#http://cl2.ottclub.info:443/fmts/n653.stream/playlist.m3u8
 人間衛視,http://120.198.235.42/202.39.43.117/sta/ch2017071864084043.m3u8
-台視,http://livewowza.ad2engage.com/ttvmainliveorigin/TTVMainStream/playlist.m3u8#
+台視,http://livewowza.ad2engage.com/ttvmainliveorigin/TTVMainStream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n701.stream/playlist.m3u8
 大愛,http://zb.16ie.com/west.php?id=daai
-中視,http://120.198.235.42/202.39.43.117/sta/ch2017071864084064.m3u8
-霹靂台灣,http://ottclub.sixu.ml:443/water/c673.stream/playlist.m3u8#http://cl5.ottclub.info:443/water/c673.stream/playlist.m3u8
-華視,http://zb.16ie.com/west.php?id=hs
-公視,http://zb.16ie.com/west.php?id=gs
-公視2,http://120.198.235.42/202.39.43.117/sta/ch2017071864084086.m3u8#http://ottclub.sixu.ml:443/fmts/n636.stream/playlist.m3u8
-好消息衛星電視台,http://live.streamingfast.net/osmflivech1.m3u8#http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+中視,http://120.198.235.42/202.39.43.117/sta/ch2017071864084064.m3u8#http://cl2.ottclub.info:443/fmts/n702.stream/playlist.m3u8
+霹靂台灣,http://cl2.ottclub.info:443/water/c673.stream/playlist.m3u8
+華視,http://cl2.ottclub.info:443/fmts/n703.stream/playlist.m3u8
+公視,http://cl2.ottclub.info:443/fmts/n704.stream/playlist.m3u8
+公視2,http://120.198.235.42/202.39.43.117/sta/ch2017071864084086.m3u8#http://ottclub.sixu.ml:443/fmts/n636.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n636.stream/playlist.m3u8
+好消息衛星電視台,http://live.streamingfast.net/osmflivech1.m3u8
 原住民族電視台,http://gcdn.3rd-evo.com/titv-live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084093.m3u8
-客家電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084085.m3u8
-國家地理頻道,http://zb.16ie.com/west.php?id=gjdl
-DISCOVERY,http://zb.16ie.com/west.php?id=tskx
-TLC旅遊生活,http://zb.16ie.com/west.php?id=tlc
-動物星球,http://zb.16ie.com/west.php?id=dwxq
+客家電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084085.m3u8#http://cl2.ottclub.info:443/fmts/n655.stream/playlist.m3u8
+國家地理頻道,http://cl2.ottclub.info:443/fmts/n705.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8603.m3u8
+DISCOVERY,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8304.m3u8
+TLC旅遊生活,http://cl2.ottclub.info:443/fmts/n707.stream/playlist.m3u8
+動物星球,http://cl2.ottclub.info:443/fmts/n708.stream/playlist.m3u8
 迪士尼,http://zb.16ie.com/west.php?id=dnsk
 CTNETWORK,http://zb.16ie.com/west.php?id=cnkt
 MOMO親子,http://zb.16ie.com/west.php?id=mmqz
@@ -30,7 +30,7 @@ MOMO親子,http://zb.16ie.com/west.php?id=mmqz
 三立都會,http://zb.16ie.com/west.php?id=sldh
 衛視中文,http://zb.16ie.com/west.php?id=wszw
 東森綜合,http://zb.16ie.com/west.php?id=dszh
-超視,
+超視,http://cl2.ottclub.info:443/fmts/n687.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
 緯來综合,視,http://118.163.30.59:36570/hls/JZ0030.m3u8#http://ottclub.sixu.ml:443/fmts/n687.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n687.stream/playlist.m3u8
 東森2購物,http://202.39.43.119/sta/ch9532016112264077.m3u8
 MOMO2購物,http://202.39.43.119/sta/ch9532017010664095.m3u8#http://202.39.43.119/stc/ch2017010665095.m3u8
@@ -105,7 +105,7 @@ EVE夏娃(全大),http://ottclub.sixu.ml:443/water/c728.stream/playlist.m3u8
 HBO原創,http://zb.16ie.com/west.php?id=hboyc#http://cl5.ottclub.info:443/water/c725.stream/playlist.m3u8
 信大電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084201.m3u8
 HBO溫馨,http://zb.16ie.com/west.php?id=hbowx#http://cl5.ottclub.info:443/water/c684.stream/playlist.m3u8
-公視3,http://cl5.ottclub.info:443/fmts/n637.stream/playlist.m3u8
+公視3,http://cl2.ottclub.info:443/fmts/n637.stream/playlist.m3u8
 民視臺灣台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084090.m3u8
 NBA,http://zb.16ie.com/west.php?id=nba
 FX HD,http://zb.16ie.com/west.php?id=fxhd
