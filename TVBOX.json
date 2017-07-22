@@ -1,0 +1,642 @@
+{
+  "live": [
+    {
+      "num": "001",
+      "itemid": "第四台",
+      "name": "凤凰中文",
+      "urllist": "http://110.77.0.182:1935/dvr/1008.stream/playlist.m3u8#http://zv.3gv.ifeng.com/live/zhongwen800k.m3u8#http://live.cuff.ifeng.com/live/zhongwen.m3u8#http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8#http://202.205.93.230:280/99e8f095e48865d9cecff47cd5563763/playlist.m3u8"
+    },
+    {
+      "num": "002",
+      "itemid": "第四台",
+      "name": "凤凰资讯",
+      "urllist": "http://110.77.0.182:1935/dvr/1009.stream/playlist.m3u8#http://zv.3gv.ifeng.com/live/zixun800k.m3u8#http://live.cuff.ifeng.com/live/zixun.m3u8#http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8#http://202.205.93.230:280/b039f4e32adba3c507423b46e08eece6/playlist.m3u8"
+    },
+    {
+      "num": "003",
+      "itemid": "第四台",
+      "name": "凤凰香港",
+      "urllist": "http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8#http://zv.3gv.ifeng.com/live/hongkong800k.m3u8#http://61.155.167.205/live/hongkong.m3u8"
+    },
+    {
+      "num": "004",
+      "itemid": "第四台",
+      "name": "凤凰美洲",
+      "urllist": "http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8#"
+    },
+    {
+      "num": "005",
+      "itemid": "第四台",
+      "name": "CNN International",
+      "urllist": "http://cl2.ottclub.info:443/fmts/n652.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g"
+    },
+    {
+      "num": "006",
+      "itemid": "第四台",
+      "name": "民視",
+      "urllist": "http://120.198.235.42/202.39.43.117/sta/ch2017071864084087.m3u8"
+    },
+    {
+      "num": "007",
+      "itemid": "第四台",
+      "name": "人間衛視",
+      "urllist": "http://120.198.235.42/202.39.43.117/sta/ch2017071864084043.m3u8"
+    },
+    {
+      "num": "008",
+      "itemid": "第四台",
+      "name": "台視",
+      "urllist": "http://cl2.ottclub.info:443/fmts/n701.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n701.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g"
+    },
+    {
+      "num": "009",
+      "itemid": "第四台",
+      "name": "大愛",
+      "urllist": "http://cl2.ottclub.info:443/water/c559.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://cl2.ottclub.info:443/water/c559.stream/playlist.m3u8"
+    },
+    {
+      "num": "010",
+      "itemid": "港澳台",
+      "name": "中视新聞",
+      "urllist": "http://59.120.43.180:17838#"
+    },
+    {
+      "num": "011",
+      "itemid": "港澳台",
+      "name": "中天综合",
+      "urllist": "http://58.99.33.4:1935/liveedge/live_67_3.stream/playlist.m3u8#http://58.99.33.4:1935/liveedge/live_718_3.stream/playlist.m3u8"
+    },
+    {
+      "num": "012",
+      "itemid": "港澳台",
+      "name": "中天新闻HD",
+      "urllist": "http://59.120.43.180:17824#http://220.228.38.16/live/fet006/chunklist.m3u8"
+    },
+    {
+      "num": "013",
+      "itemid": "港澳台",
+      "name": "民视HD",
+      "urllist": "http://59.120.43.180:17334#http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/as/live/formosatv_4.m3u8"
+    },
+    {
+      "num": "014",
+      "itemid": "港澳台",
+      "name": "民视新闻HD",
+      "urllist": "http://59.120.43.180:17355#http://220.228.38.16/live/fet002/chunklist.m3u8"
+    },
+    {
+      "num": "015",
+      "itemid": "港澳台",
+      "name": "民视四季HD",
+      "urllist": "http://59.120.43.180:17623#"
+    },
+    {
+      "num": "016",
+      "itemid": "港澳台",
+      "name": "东森新闻HD",
+      "urllist": "http://59.120.43.180:17817#http://220.228.38.16/live/fet003/chunklist.m3u8"
+    },
+    {
+      "num": "017",
+      "itemid": "港澳台",
+      "name": "东森亚洲新闻",
+      "urllist": "http://58.99.33.4:1935/liveedge/live_166_3.stream/playlist.m3u8#http://58.99.33.4:1935/liveedge/live_724_3.stream/playlist.m3u8"
+    },
+    {
+      "num": "018",
+      "itemid": "港澳台",
+      "name": "东森美洲台",
+      "urllist": "http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8#"
+    },
+    {
+      "num": "019",
+      "itemid": "港澳台",
+      "name": "宏观卫视",
+      "urllist": "http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/as/live/mactv_4.m3u8#"
+    },
+    {
+      "num": "020",
+      "itemid": "港澳台",
+      "name": "大爱台",
+      "urllist": "http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8#"
+    },
+    {
+      "num": "021",
+      "itemid": "港澳台",
+      "name": "澳视澳门",
+      "urllist": "http://live2.tdm.com.mo:80/tv/ch1.live/playlist.m3u8#"
+    },
+    {
+      "num": "022",
+      "itemid": "港澳台",
+      "name": "莲花卫视",
+      "urllist": "http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/lotustv/as/live/lotustv_4.m3u8#"
+    },
+    {
+      "num": "023",
+      "itemid": "港澳台",
+      "name": "澳亚卫视",
+      "urllist": "http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8#"
+    },
+    {
+      "num": "023",
+      "itemid": "港澳台",
+      "name": "华娱卫视",
+      "urllist": "http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/droid/live/cetv_4.m3u8#http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/as/live/cetv_4.m3u8"
+    },
+    {
+      "num": "024",
+      "itemid": "港澳台",
+      "name": "星空卫视",
+      "urllist": "http://110.77.0.182:1935/dvr/1010.stream/chunklist_w1609220598.m3u8#http://110.77.0.182:1935/dvr/1010.stream/playlist.m3u8#http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=49&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b"
+    },
+    {
+      "num": "025",
+      "itemid": "港澳台",
+      "name": "天映频道",
+      "urllist": "http://www.anchoredinversion.com/a3/py.php?id=4200000105#"
+    },
+    {
+      "num": "026",
+      "itemid": "港澳台",
+      "name": "星影电影",
+      "urllist": "http://59.56.75.17/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8#http://125.88.39.24/live.aishang.ctlcdn.com/00000110240279_1/encoder/1/playlist.m3u8#http://180.137.248.125/live.aishang.ctlcdn.com/00000110240279_1/encoder/1/playlist.m3u8"
+    },
+    {
+      "num": "027",
+      "itemid": "港澳台",
+      "name": "精选电影",
+      "urllist": "http://180.137.248.125/live.aishang.ctlcdn.com/00000110240275_1/encoder/1/playlist.m3u8#http://125.88.39.24/live.aishang.ctlcdn.com/00000110240275_1/encoder/1/playlist.m3u8#http://61.129.131.60/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8#http://59.56.75.17/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "101",
+      "itemid": "中央台",
+      "name": "CCTV-1综合",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225680/index.m3u8#http://61.129.131.65/live.aishang.ctlcdn.com/00000110240127_1/encoder/3/playlist.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227692/index.m3u8#http://183.232.54.210:8935/live/hcctv_101/chunklist.m3u8#http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/CCTV-1hd/as/live/CCTV-1hd_4.m3u8#http://222.246.232.154/live01.cache.m.wasu.com/CCTV-1/z.m3u8#"
+    },
+    {
+      "num": "102",
+      "itemid": "中央台",
+      "name": "CCTV-2财经",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240244_1/encoder/3/playlist.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227666/index.m3u8#http://183.207.249.8/PLTV/3/224/3221225538/index.m3u8#http://183.232.54.210:8935/live/hcctv_102/chunklist.m3u8#p2p://60.249.213.25:9900/56066b77000e76310023dab560fa49a8.ts#http://222.246.232.154/live01.cache.m.wasu.com/CCTV-2/z.m3u8#http://CCTV-2.vtime.cntv.cloudcdn.net/cache/204_/seg0/index.m3u8#"
+    },
+    {
+      "num": "103",
+      "itemid": "中央台",
+      "name": "CCTV-3综艺",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240245_1/encoder/3/playlist.m3u8#http://183.232.54.210:8935/live/hcctv_103/chunklist.m3u8#http://183.207.249.8/PLTV/3/224/3221225588/index.m3u8#p2p://60.249.213.25:9900/56066ba5000767f500248c96624b150c.ts#http://222.246.232.154/live01.cache.m.wasu.com/CCTV-3/z.m3u8#http://CCTV-3.vtime.cntv.cloudcdn.net/cache/209_/seg0/index.m3u8"
+    },
+    {
+      "num": "104",
+      "itemid": "中央台",
+      "name": "CCTV-4中文国际",
+      "urllist": "http://183.232.54.210:8935/live/hcctv_104/chunklist.m3u8#http://183.207.249.8/PLTV/3/224/3221225534/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227721/index.m3u8#p2p://60.249.213.25:9900/56066bd800062b360025537c667c7f3a.ts#http://222.246.232.154/live01.cache.m.wasu.com/CCTV-4/z.m3u8#http://CCTV-4.vtime.cntv.cloudcdn.net/cache/19_/seg0/index.m3u8#http://ktv031.cdnl3nl.ds.kylintv.net/nlds/kylin/cctv4hd/as/live/cctv4hd_4.m3u8"
+    },
+    {
+      "num": "105",
+      "itemid": "中央台",
+      "name": "CCTV-5体育",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240246_1/encoder/3/playlist.m3u8#http://183.207.249.8/PLTV/3/224/3221225644/index.m3u8#p2p://60.249.213.25:9900/56066c030008e0730025fc29087044af.ts#http://222.246.232.154/live01.cache.m.wasu.com/CCTV-5/z.m3u8#http://CCTV-5.vtime.cntv.cloudcdn.net/cache/214_/seg0/index.m3u8"
+    },
+    {
+      "num": "106",
+      "itemid": "中央台",
+      "name": "CCTV-5+体育赛事",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240128_1/encoder/2/playlist.m3u8#http://183.207.249.8/PLTV/3/224/3221225604/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227870/index.m3u8#p2p://60.249.213.25:9900/56066c3e0005d0b70026e1d6294a5c52.ts"
+    },
+    {
+      "num": "107",
+      "itemid": "中央台",
+      "name": "CCTV-6电影",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240247_1/encoder/3/playlist.m3u8#p2p://60.249.213.25:9900/56066c7e000d39ef0027ddc163e27e6b.ts#http://222.246.232.154/live01.cache.m.wasu.com/CCTV-6/z.m3u8#http://CCTV-6.vtime.cntv.cloudcdn.net/cache/219_/seg0/index.m3u8#http://183.207.249.8/PLTV/3/224/3221225548/index.m3u8#"
+    },
+    {
+      "num": "108",
+      "itemid": "中央台",
+      "name": "CCTV-7军事农业",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240248_1/encoder/3/playlist.m3u8#http://183.207.249.8/PLTV/3/224/3221225546/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227695/index.m3u8#p2p://60.249.213.25:9900/56066cad000ea7ed002895ba03f82c51.ts#http://222.246.232.154/live01.cache.m.wasu.com/CCTV-7/z.m3u8#http://CCTV-7.vtime.cntv.cloudcdn.net/cache/224_/seg0/index.m3u8"
+    },
+    {
+      "num": "109",
+      "itemid": "中央台",
+      "name": "CCTV-8电视剧",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240249_1/encoder/3/playlist.m3u8#http://183.207.249.8/PLTV/3/224/3221225542/index.m3u8#http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/CCTV-8hd/as/live/CCTV-8hd_4.m3u8#p2p://60.249.213.25:9900/56066cf4000686030029a8fb03d67268.ts#http://222.246.232.154/live01.cache.m.wasu.com/CCTV-8/z.m3u8#http://CCTV-8.vtime.cntv.cloudcdn.net/cache/229_/seg0/index.m3u8"
+    },
+    {
+      "num": "110",
+      "itemid": "中央台",
+      "name": "CCTV-9纪录",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240250_1/encoder/3/playlist.m3u8#http://183.207.249.8/PLTV/3/224/3221225532/index.m3u8#"
+    },
+    {
+      "num": "111",
+      "itemid": "中央台",
+      "name": "CCTV-10科教",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240251_1/encoder/3/playlist.m3u8#http://183.207.249.8/PLTV/3/224/3221225550/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227698/index.m3u8http://CCTV-10.vtime.cntv.cloudcdn.net/cache/234_/seg0/index.m3u8"
+    },
+    {
+      "num": "112",
+      "itemid": "中央台",
+      "name": "CCTV-11戏曲",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225552/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227672/index.m3u8#p2p://60.249.213.25:9900/56066d8f000b8ab7002c07be383352d8.ts#http://CCTV-11.vtime.cntv.cloudcdn.net/cache/239_/seg0/index.m3u8"
+    },
+    {
+      "num": "113",
+      "itemid": "中央台",
+      "name": "CCTV-12社会与法",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240252_1/encoder/3/playlist.m3u8#http://183.207.249.8/PLTV/3/224/3221225556/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227724/index.m3u8#p2p://60.249.213.25:9900/56066dc90007423d002ce93602663a16.ts#http://CCTV-12.vtime.cntv.cloudcdn.net/cache/244_/seg0/index.m3u8"
+    },
+    {
+      "num": "114",
+      "itemid": "中央台",
+      "name": "CCTV-13新闻",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225560/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227701/index.m3u8#p2p://60.249.213.25:9900/56066df6000a7107002d99cf69cc273f.ts#http://CCTV-13.vtime.cntv.cloudcdn.net/cache/24_/seg0/index.m3u8"
+    },
+    {
+      "num": "115",
+      "itemid": "中央台",
+      "name": "CCTV-14少儿",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240253_1/encoder/3/playlist.m3u8#http://183.207.249.8/PLTV/3/224/3221225564/index.m3u8#http://CCTV-child.vtime.cntv.cloudcdn.net/cache/249_/seg0/index.m3u8"
+    },
+    {
+      "num": "116",
+      "itemid": "中央台",
+      "name": "CCTV-15音乐",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225568/index.m3u8#http://CCTV-15.vtime.cntv.cloudcdn.net/cache/254_/seg0/index.m3u8"
+    },
+    {
+      "num": "117",
+      "itemid": "中央台",
+      "name": "CCTV-风云足球",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225571/index.m3u8"
+    },
+    {
+      "num": "118",
+      "itemid": "中央台",
+      "name": "CCTV-第一剧场",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225587/index.m3u8"
+    },
+    {
+      "num": "119",
+      "itemid": "中央台",
+      "name": "CCTV-IP电视",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240264_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "120",
+      "itemid": "中央台",
+      "name": "CCTV-娱乐",
+      "urllist": "http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/cctvent/as/live/cctvent_4.m3u8"
+    },
+    {
+      "num": "121",
+      "itemid": "中央台",
+      "name": "中国电影",
+      "urllist": "http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8"
+    },
+    {
+      "num": "122",
+      "itemid": "中央台",
+      "name": "IPTV相声小品",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240006_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "123",
+      "itemid": "中央台",
+      "name": "IPTV谍战剧场",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240003_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "124",
+      "itemid": "中央台",
+      "name": "IPTV热播剧场",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240089_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "125",
+      "itemid": "中央台",
+      "name": "IPTV经典电影",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240090_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "126",
+      "itemid": "中央台",
+      "name": "IPTV魅力时尚",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240091_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "127",
+      "itemid": "中央台",
+      "name": "IPTV少儿动画",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240092_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "128",
+      "itemid": "中央台",
+      "name": "IPTV野外",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240095_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "129",
+      "itemid": "中央台",
+      "name": "IPTV法治",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240096_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "130",
+      "itemid": "中央台",
+      "name": "IPTV游戏竞技",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240257_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "131",
+      "itemid": "中央台",
+      "name": "IPTV收视指南",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240225_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "132",
+      "itemid": "中央台",
+      "name": "IPTV3+",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240093_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "133",
+      "itemid": "中央台",
+      "name": "IPTV6+",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240007_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "134",
+      "itemid": "中央台",
+      "name": "IPTV5+",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240094_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "135",
+      "itemid": "中央台",
+      "name": "IPTV8+",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240125_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "136",
+      "itemid": "中央台",
+      "name": "CETV1",
+      "urllist": "http://61.129.131.65/live.aishang.ctlcdn.com/00000110240243_1/encoder/0/playlist.m3u8"
+    },
+    {
+      "num": "137",
+      "itemid": "中央台",
+      "name": "SDETV",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225614/index.m3u8"
+    },
+    {
+      "num": "138",
+      "itemid": "中央台",
+      "name": "CETV1",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225622/index.m3u8"
+    },
+    {
+      "num": "139",
+      "itemid": "中央台",
+      "name": "爆笑云社",
+      "urllist": "http://dlhls.cdn.zhanqi.tv/zqlive/13393_Raq4m.m3u8"
+    },
+    {
+      "num": "201",
+      "itemid": "卫视",
+      "name": "湖南卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225521/index.m3u8#http://183.207.249.8/PLTV/3/224/3221225584/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227866/index.m3u8"
+    },
+    {
+      "num": "202",
+      "itemid": "卫视",
+      "name": "浙江卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225682/index.m3u8#http://183.207.249.8/PLTV/3/224/3221225544/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227810/index.m3u8"
+    },
+    {
+      "num": "203",
+      "itemid": "卫视",
+      "name": "广东卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225592/index.m3u8#http://183.207.249.8/PLTV/3/224/3221225578/index.m3u8#http://183.207.249.8/PLTV/3/224/3221225596/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227697/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227869/index.m3u8"
+    },
+    {
+      "num": "204",
+      "itemid": "卫视",
+      "name": "深圳卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225582/index.m3u8#http://183.207.249.8/PLTV/3/224/3221225696/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227733/index.m3u8"
+    },
+    {
+      "num": "205",
+      "itemid": "卫视",
+      "name": "湖北卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225630/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227710/index.m3u8"
+    },
+    {
+      "num": "206",
+      "itemid": "卫视",
+      "name": "四川卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225570/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227687/index.m3u8"
+    },
+    {
+      "num": "207",
+      "itemid": "卫视",
+      "name": "重庆卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225594/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227690/index.m3u8"
+    },
+    {
+      "num": "208",
+      "itemid": "卫视",
+      "name": "江苏卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225650/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227869/index.m3u8"
+    },
+    {
+      "num": "209",
+      "itemid": "卫视",
+      "name": "山东卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225586/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227707/index.m3u8"
+    },
+    {
+      "num": "210",
+      "itemid": "卫视",
+      "name": "安徽卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225634/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227813/index.m3u8"
+    },
+    {
+      "num": "211",
+      "itemid": "卫视",
+      "name": "北京卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225574/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227678/index.m3u8"
+    },
+    {
+      "num": "212",
+      "itemid": "卫视",
+      "name": "东方卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225558/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227841/index.m3u8"
+    },
+    {
+      "num": "213",
+      "itemid": "卫视",
+      "name": "天津卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225562/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227730/index.m3u8"
+    },
+    {
+      "num": "214",
+      "itemid": "卫视",
+      "name": "辽宁卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225566/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227684/index.m3u8"
+    },
+    {
+      "num": "215",
+      "itemid": "卫视",
+      "name": "黑龙江卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225652/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227736/index.m3u8"
+    },
+    {
+      "num": "216",
+      "itemid": "卫视",
+      "name": "新疆卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225523/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227839/index.m3u8"
+    },
+    {
+      "num": "217",
+      "itemid": "卫视",
+      "name": "江西卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225536/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227681/index.m3u8"
+    },
+    {
+      "num": "218",
+      "itemid": "卫视",
+      "name": "贵州卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225540/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227713/index.m3u8"
+    },
+    {
+      "num": "219",
+      "itemid": "卫视",
+      "name": "广西卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225554/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227693/index.m3u8"
+    },
+    {
+      "num": "220",
+      "itemid": "卫视",
+      "name": "山西卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225576/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227696/index.m3u8"
+    },
+    {
+      "num": "221",
+      "itemid": "卫视",
+      "name": "青海卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225580/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227725/index.m3u8"
+    },
+    {
+      "num": "222",
+      "itemid": "卫视",
+      "name": "西藏卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225579/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227702/index.m3u8"
+    },
+    {
+      "num": "223",
+      "itemid": "卫视",
+      "name": "吉林卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225589/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227745/index.m3u8"
+    },
+    {
+      "num": "224",
+      "itemid": "卫视",
+      "name": "甘肃卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225590/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227731/index.m3u8"
+    },
+    {
+      "num": "225",
+      "itemid": "卫视",
+      "name": "云南卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225591/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227716/index.m3u8#http://183.207.249.8/PLTV/3/224/3221225569/index.m3u8"
+    },
+    {
+      "num": "226",
+      "itemid": "卫视",
+      "name": "内蒙古卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225624/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227837/index.m3u8"
+    },
+    {
+      "num": "227",
+      "itemid": "卫视",
+      "name": "东南卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225598/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227719/index.m3u8"
+    },
+    {
+      "num": "228",
+      "itemid": "卫视",
+      "name": "河北卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225602/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227742/index.m3u8"
+    },
+    {
+      "num": "229",
+      "itemid": "卫视",
+      "name": "陕西卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225626/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227722/index.m3u8"
+    },
+    {
+      "num": "230",
+      "itemid": "卫视",
+      "name": "宁夏卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225628/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227728/index.m3u8"
+    },
+    {
+      "num": "231",
+      "itemid": "卫视",
+      "name": "河南卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225632/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227739/index.m3u8"
+    },
+    {
+      "num": "232",
+      "itemid": "卫视",
+      "name": "兵团卫视",
+      "urllist": "http://125.88.39.84/live.aishang.ctlcdn.com/00000110240280_1/encoder/0/playlist.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227705/index.m3u8"
+    },
+    {
+      "num": "233",
+      "itemid": "卫视",
+      "name": "旅游卫视",
+      "urllist": "http://183.207.249.8/PLTV/3/224/3221225585/index.m3u8#http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227699/index.m3u8"
+    },
+    {
+      "num": "234",
+      "itemid": "卫视",
+      "name": "南方卫视",
+      "urllist": "http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227651/index.m3u8"
+    },
+    {
+      "num": "235",
+      "itemid": "卫视",
+      "name": "厦门卫视",
+      "urllist": "http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227760/index.m3u8"
+    },
+    {
+      "num": "236",
+      "itemid": "卫视",
+      "name": "延边卫视",
+      "urllist": "http://mlive.iybtv.com:8012/kmZk2fv/500/live.m3u8"
+    },
+    {
+      "num": "237",
+      "itemid": "卫视",
+      "name": "交通台",
+      "urllist": "http://r.gslb.lecloud.com/live/hls/20151111300009925/desc.m3u8"
+    }
+  ],
+  "type": [
+    {
+      "id": "第四台",
+      "name": "第 四 台"
+    },
+    {
+      "id": "中央台",
+      "name": "中 央 台"
+    },
+    {
+      "id": "卫视",
+      "name": "卫      视"
+    }
+  ]
+}
