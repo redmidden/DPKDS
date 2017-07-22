@@ -26,8 +26,8 @@ MOMO親子,http://cl2.ottclub.info:443/fmts/n711.stream/playlist.m3u8#http://cl2
 緯來綜合,http://cl2.ottclub.info:443/fmts/n713.stream/playlist.m3u8#
 八大第一,http://cl2.ottclub.info:443/water/c679.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n714.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n714.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
 八大綜合,http://cl2.ottclub.info:443/fmts/n715.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n715.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
-三立台灣,http://cl2.ottclub.info:443/fmts/n716.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n716.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
-三立都會,http://cl2.ottclub.info:443/fmts/n685.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n685.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://cl2.ottclub.info:443/fmts/n685.stream/playlist.m3u8
+三立台灣,http://211.21.65.91:36570/hls/H100X8.m3u8#http://cl2.ottclub.info:443/fmts/n716.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n716.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
+三立都會,app.kanlive.cn/a/twtv.php?id=twsltw#http://cl2.ottclub.info:443/fmts/n685.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n685.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://cl2.ottclub.info:443/fmts/n685.stream/playlist.m3u8
 衛視中文,http://cl2.ottclub.info:443/water/c713.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8204.m3u8#http://cl2.ottclub.info:443/water/c713.stream/playlist.m3u8#
 東森綜合,http://cl2.ottclub.info:443/fmts/n686.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8202.m3u8#http://cl2.ottclub.info:443/fmts/n686.stream/playlist.m3u8
 超視,http://cl2.ottclub.info:443/fmts/n687.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://cl2.ottclub.info:443/fmts/n687.stream/playlist.m3u8
