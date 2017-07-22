@@ -53,9 +53,9 @@ Viva1購物,http://202.39.43.119/stc/ch2016112265091.m3u8#http://202.39.43.119/s
 中天新聞,http://cl2.ottclub.info:443/fmts/n698.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n698.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
 民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23:80/hls/ftvtv/index.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8301.m3u8#http://cl2.ottclub.info:443/fmts/n699.stream/playlist.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084088.m3u8
 三立新聞,http://cl2.ottclub.info:443/fmts/n700.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n700.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
-TVBS新聞,http://zb.16ie.com/west.php?id=tvbsxw
-TVBS,http://ottclub.sixu.ml:443/fmts/n670.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n670.stream/playlist.m3u8
-東森財經,http://zb.16ie.com/west.php?id=dsjc#http://ottclub.sixu.ml:443/fmts/n671.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9104.m3u8#http://cl5.ottclub.info:443/fmts/n671.stream/playlist.m3u8
+TVBS新聞,http://cl2.ottclub.info:443/fmts/n669.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n669.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
+TVBS,http://cl2.ottclub.info:443/fmts/n670.stream/playlist.m3u8#http://rb1.ottclub.info:443/fmts/n670.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
+東森財經,http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9104.m3u8#http://cl2.ottclub.info:443/fmts/n671.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n671.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#
 非凡新聞,http://zb.16ie.com/west.php?id=ffxw#http://ottclub.sixu.ml:443/fmts/n672.stream/playlist.m3u8
 Viva1台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084091.m3u8
 東森5購物,http://202.39.43.119/stc/ch2016112265079.m3u8#http://202.39.43.119/sta/ch9532016112264079.m3u8
