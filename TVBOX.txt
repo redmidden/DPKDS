@@ -72,7 +72,7 @@ CineMax電影,http://cl2.ottclub.info:443/fmts/n680.stream/playlist.m3u8#http://
 緯來育樂,http://cl2.ottclub.info:443/fmts/n706.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n706.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
 緯來體育,http://cl2.ottclub.info:443/fmts/n681.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://cl2.ottclub.info:443/fmts/n681.stream/playlist.m3u8
 Fox體育,http://cl2.ottclub.info:443/fmts/n682.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://cl2.ottclub.info:443/fmts/n682.stream/playlist.m3u8
-Fox-2體育,http://cl2.ottclub.info:443/fmts/n683.stream/playlist.m3u8bar.net/streams/hls/multibitrate/live/9302.m3u8#http://cl5.ottclub.info:443/fmts/n683.stream/playlist.m3u8
+Fox-2體育,http://cl2.ottclub.info:443/fmts/n683.stream/playlist.m3u8
 緯來日本,http://cl2.ottclub.info:443/fmts/n684.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://cl2.ottclub.info:443/fmts/n684.stream/playlist.m3u8
 ANIMAX動漫,http://cl2.ottclub.info:443/kitty/c708.stream/playlist.m3u8
 國興衛視,http://cl2.ottclub.info:443/kitty/c701.stream/playlist.m3u8
