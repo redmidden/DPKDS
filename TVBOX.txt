@@ -114,26 +114,26 @@ FOX警匪,http://zb.16ie.com/west.php?id=foxjf#http://tokyo.tv-bar.net/streams/h
 NHK新聞,https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
 寰宇財經,http://ottclub.sixu.ml:443/fmts/n648.stream/playlist.m3u8
 中視新聞HD,http://120.198.235.42/202.39.43.117/sta/ch2017071064084062.m3u8#https://redmidden.github.io/TVBOX/youtube_HD.php?id=ewtBJH-E3Yo|User-Agent=stagefright
-JSport2,http://zb.16ie.com/west.php?id=jss2
-JSport1,http://zb.16ie.com/west.php?id=jss1
-SBS,http://zb.16ie.com/west.php?id=sbs
-KIDS,http://zb.16ie.com/west.php?id=kids
-NHK-ETV,http://zb.16ie.com/west.php?id=nhk
-TOKYOMX,http://zb.16ie.com/west.php?id=tokyomx
-富士电视
-,http://zb.16ie.com/west.php?id=jp2
-日本电视
-,http://zb.16ie.com/west.php?id=jp3
-电视
-朝日,http://zb.16ie.com/west.php?id=jp4
-电视東京,http://zb.16ie.com/west.php?id=jp5
-TBS电视,http://zb.16ie.com/west.php?id=tbs
-NHK综合,http://zb.16ie.com/west.php?id=nhkzh
-KBSNSPORT,http://zb.16ie.com/west.php?id=kbsty
-韩国娱乐台,http://zb.16ie.com/west.php?id=hgyl
-日本台,http://zb.16ie.com/west.php?id=rbt
-富士台,http://zb.16ie.com/west.php?id=fst
-罪案侦缉频道,http://zb.16ie.com/west.php?id=jp6
+日-體育台,http://122.155.180.8:5021/live/413.m3u8
+日-GREEN,http://122.155.180.8:5021/live/412.m3u8
+日-SPORTS1,http://122.155.180.8:5021/live/415.m3u8
+日-SPORTS2,http://122.155.180.8:9021/live/416.m3u8
+日-HNK綜合,http://122.155.180.8:5021/live/309.m3u8
+日-HNK教育,http://122.155.180.8:5021/live/310.m3u8
+日-HNK電視,http://122.155.180.8:5021/live/312.m3u8
+日-富士電視,http://122.155.180.8:5021/live/316.m3u8
+日-朝日電視,http://122.155.180.8:5021/live/313.m3u8
+日-東京電視,http://122.155.180.8:5021/live/315.m3u8
+日-東京MX,http://122.155.180.8:5021/live/311.m3u8
+日-SAN電視,http://122.155.180.8:5021/live/320.m3u8
+日-KIDS,http://122.155.180.8:9021/live/494.m3u8
+日-衛星劇場,http://122.155.180.8:5021/live/208.m3u8
+日-日本映畫,http://122.155.180.8:5021/live/213.m3u8
+日-迪士尼,http://122.155.180.8:5021/live/499.m3u8
+日-TBS,http://122.155.180.8:5021/live/221.m3u8
+日-日本摔角,http://122.155.180.8:5021/live/217.m3u8
+日-ANIMAX,http://122.155.180.8:9021/live/498.m3u8
+日-日本職棒,http://122.155.180.8:9021/live/95.m3u8
 
 
 
