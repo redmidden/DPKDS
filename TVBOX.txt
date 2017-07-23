@@ -90,17 +90,17 @@ CatchPlay(冠軍電視),http://ottclub.sixu.ml:443/water/c685.stream/playlist.m3
 非凡商業,http://ottclub.sixu.ml:443/water/c730.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n672.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9502.m3u8#http://cl5.ottclub.info:443/water/c730.stream/playlist.m3u8
 天良電視台,http://202.39.43.119/sta/ch2017071864084001.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071064084001.m3u8
 中華財經台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084009.m3u8
-SBN全球財經臺,http://120.198.235.42/202.39.43.117/sta/ch2017071864084011.m3u8
+SBN全球財經臺,http://202.39.43.120/sta/ch2017071864084011.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084011.m3u8
 布丁K歌台,http://202.39.43.119/sta/ch2017071864084152.m3u8
 誠心電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071064084200.m3u8
-信吉電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084002.m3u8
-FOX警匪(中華財經),http://ottclub.sixu.ml:443/kitty/c703.stream/playlist.m3u8
-LTV龍華電影台,http://zb.16ie.com/west.php?id=lhdy
+信吉電視台,http://202.39.43.120/sta/ch2017071864084002.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084002.m3u8
+中華財經台(FOX警匪),http://202.39.43.120/sta/ch2017071864084009.m3u8#http://ottclub.sixu.ml:443/kitty/c703.stream/playlist.m3u8
+LTV龍華電影台,http://202.39.43.120/sta/ch2017071864084022.m3u8
 美亞電影,http://zb.16ie.com/west.php?id=mydy
 EVE夏娃(全大),http://ottclub.sixu.ml:443/water/c728.stream/playlist.m3u8
 臺灣藝術台,http://202.39.43.120/sta/ch2017071864084013.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084013.m3u8
-華藏衛星電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084016.m3u8
-唯心電視臺,http://120.198.235.42/202.39.43.117/sta/ch2017071864084012.m3u8
+華藏衛星電視台,http://202.39.43.120/sta/ch2017071864084016.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084016.m3u8
+唯心電視臺,http://202.39.43.120/sta/ch2017071864084012.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084012.m3u8
 生命電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084010.m3u8
 HBO原創,http://zb.16ie.com/west.php?id=hboyc#http://cl5.ottclub.info:443/water/c725.stream/playlist.m3u8
 信大電視台,http://120.198.235.42/202.39.43.117/sta/ch2017071864084201.m3u8
@@ -113,7 +113,28 @@ FOX家庭,http://zb.16ie.com/west.php?id=foxjt
 FOX警匪,http://zb.16ie.com/west.php?id=foxjf#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8601.m3u8
 NHK新聞,https://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index.m3u8
 寰宇財經,http://ottclub.sixu.ml:443/fmts/n648.stream/playlist.m3u8
-中視新聞HD,http://120.198.235.42/202.39.43.117/sta/ch2017071064084062.m3u8#https://redmidden.github.io/TVBOX/youtube_HD.php?id=ewtBJH-E3Yo|User-Agent=stagefright
+中視新聞HD,http://202.39.43.119/sta/ch2017071864084062.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071064084062.m3u8#https://redmidden.github.io/TVBOX/youtube_HD.php?id=ewtBJH-E3Yo|User-Agent=stagefright
+FSTV 四季台,http://202.39.43.119/sta/ch2017071864084090.m3u8
+台灣交通電視台,http://202.39.43.119/sta/ch2017071864084089.m3u8
+梅迪奇藝術台,http://202.39.43.120/sta/ch2017071864084034.m3u8
+布丁電影台 娛樂,http://202.39.43.120/sta/ch2017071864084151.m3u8
+Golf Channel,http://202.39.43.120/sta/ch2017071864084024.m3u8
+Golf Channel,http://202.39.43.120/sta/ch2017071864084024.m3u8
+博斯高球一台,http://202.39.43.120/sta/ch2017071864084025.m3u8
+博斯高球二台,http://202.39.43.119/sta/ch2017071864084026.m3u8
+博斯運動網,http://202.39.43.119/sta/ch2017071864084028.m3u8
+博斯網球台,http://202.39.43.120/sta/ch2017071864084024.m3u8
+博斯無限台,http://202.39.43.120/sta/ch2017071864084017.m3u8
+博斯魅力台,http://202.39.43.120/sta/ch2017071864084019.m3u8
+博斯足球台,http://202.39.43.120/sta/ch2017071864084018.m3u8
+東森購物四台,http://202.39.43.119/sta/ch2017071864084080.m3u8
+
+
+81 MOMO購物3台 HD購物,http://202.39.43.120/sta/ch2017071864084096.m3u8
+
+
+82博斯電玩台 HD體育,http://202.39.43.119/sta/ch2017071864084030.m3u8
+
 Animax,http://m3u8.artv.watch/jp-animax.m3u8
 BS-12,http://m3u8.artv.watch/jp-bs12.m3u8
 BS-J,http://m3u8.artv.watch/jp-bsj.m3u8
