@@ -58,7 +58,7 @@ TVBS,http://cl2.ottclub.info:443/fmts/n670.stream/playlist.m3u8#http://rb1.ottcl
 東森財經,http://cl2.ottclub.info:443/fmts/n671.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n671.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#
 非凡新聞,http://cl2.ottclub.info:443/fmts/n672.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n672.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
 MOMO1臺,http://120.198.235.42/202.39.43.117/sta/ch2017071864084094.m3u8
-東森購物5臺,http://120.198.235.42/202.39.43.117/sta/ch2017071864084079.m3u8
+東森購物5臺,http://202.39.43.119/sta/ch2017071864084079.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084079.m3u8
 衛視電影,http://cl2.ottclub.info:443/kitty/c722.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n673.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n673.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
 東森電影,http://cl2.ottclub.info:443/fmts/n674.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://cl2.ottclub.info:443/fmts/n674.stream/playlist.m3u8
 緯來電影,http://cl2.ottclub.info:443/fmts/n675.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n675.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
@@ -128,13 +128,23 @@ Golf Channel,http://202.39.43.120/sta/ch2017071864084024.m3u8
 博斯魅力台,http://202.39.43.120/sta/ch2017071864084019.m3u8
 博斯足球台,http://202.39.43.120/sta/ch2017071864084018.m3u8
 東森購物四台,http://202.39.43.119/sta/ch2017071864084080.m3u8
-
-
-81 MOMO購物3台 HD購物,http://202.39.43.120/sta/ch2017071864084096.m3u8
-
-
-82博斯電玩台 HD體育,http://202.39.43.119/sta/ch2017071864084030.m3u8
-
+布丁紀實頻道 ,http://202.39.43.120/sta/ch2017071864084150.m3u8
+BabyFirst,http://202.39.43.120/stc/ch2017071965684021.m3u8
+龍華卡通台,http://202.39.43.120/sta/ch2017071864084029.m3u8
+龍華戲劇台,http://202.39.43.120/sta/ch2017071864084031.m3u8
+龍華偶像台,http://202.39.43.120/sta/ch2017071864084023.m3u8
+龍華日韓劇,http://202.39.43.120/sta/ch2017071864084024.m3u8
+東森購物二台,http://202.39.43.119/sta/ch2017071864084077.m3u8
+MOMO購物2台,http://202.39.43.119/sta/ch2017071864084095.m3u8
+中天亞洲台,http://202.39.43.120/sta/ch2017071864084038.m3u8
+亞洲旅遊台, http://202.39.43.119/sta/ch2017071864084020.m3u8
+東森購物三台,http://202.39.43.119/sta/ch2017071864084078.m3u8
+東森購物一台,http://202.39.43.120/sta/ch2017071864084076.m3u8
+MOMO購物1台,http://202.39.43.119/sta/ch2017071864084094.m3u8
+寰宇新聞台,http://202.39.43.120/sta/ch2017071864084032.m3u8
+寰宇新聞二台,http://202.39.43.119/sta/ch2017071864084033.m3u8
+MOMO購物3台,http://202.39.43.120/sta/ch2017071864084096.m3u8
+博斯電玩台,http://202.39.43.119/sta/ch2017071864084030.m3u8
 Animax,http://m3u8.artv.watch/jp-animax.m3u8
 BS-12,http://m3u8.artv.watch/jp-bs12.m3u8
 BS-J,http://m3u8.artv.watch/jp-bsj.m3u8
