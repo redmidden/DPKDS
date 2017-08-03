@@ -12,7 +12,7 @@ CNN International,http://zb.16ie.com/west.php?id=cnn#http://cl5.ottclub.info:443
 華視,http://cl2.ottclub.info:443/fmts/n703.stream/playlist.m3u8
 公視,http://cl2.ottclub.info:443/fmts/n704.stream/playlist.m3u8
 公視2,http://202.39.43.120/sta/ch2017071864084086.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084086.m3u8#http://ottclub.sixu.ml:443/fmts/n636.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n636.stream/playlist.m3u8
-好消息衛星電視http://202.39.43.120/sta/ch2017071864084086.m3u8台,http://live.streamingfast.net/osmflivech1.m3u8
+好消息衛星電視,http://202.39.43.120/sta/ch2017071864084086.m3u8台#http://live.streamingfast.net/osmflivech1.m3u8
 原住民族電視台,http://202.39.43.120/sta/ch2017071864084086.m3u8#http://gcdn.3rd-evo.com/titv-live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084093.m3u8
 客家電視台,http://202.39.43.120/sta/ch2017071864084085.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084085.m3u8#http://cl2.ottclub.info:443/fmts/n655.stream/playlist.m3u8
 國家地理頻道,http://cl2.ottclub.info:443/fmts/n705.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8603.m3u8
@@ -54,7 +54,7 @@ Viva1購物,http://202.39.43.119/stc/ch2016112265091.m3u8#http://202.39.43.119/s
 民視新聞,http://202.39.43.120/sta/ch2017071864084088.m3u8#http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23:80/hls/ftvtv/index.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8301.m3u8#http://cl2.ottclub.info:443/fmts/n699.stream/playlist.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084088.m3u8
 三立新聞,http://cl2.ottclub.info:443/fmts/n700.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n700.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
 TVBS新聞,http://cl2.ottclub.info:443/fmts/n669.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n669.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
-TVBS,http://cl2.ottclub.info:443/fmts/n670.stream/playlist.m3u8#http://rb1.ottclub.info:443/fmts/n670.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
+TVBS,http://happytv.000webhostapp.com/20170723/TVBSN.php#http://cl2.ottclub.info:443/fmts/n670.stream/playlist.m3u8#http://rb1.ottclub.info:443/fmts/n670.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
 東森財經,http://cl2.ottclub.info:443/fmts/n671.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n671.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#
 非凡新聞,http://cl2.ottclub.info:443/fmts/n672.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n672.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
 MOMO1臺,http://120.198.235.42/202.39.43.117/sta/ch2017071864084094.m3u8
