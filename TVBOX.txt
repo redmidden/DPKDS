@@ -1,4 +1,4 @@
-巴哈姆特電玩瘋,http://61.218.59.193/live/ch103/playlist.m3u8
+巴哈姆特電玩瘋,http://61.jo4218.59.193/live/ch103/playlist.m3u8
 電影預告,http://61.218.59.97/live/ch123/playlist.m3u8
 奇妙電視,http://61.10.2.137/live_fantv/_definst_/fantv77_h.live/playlist.m3u8
 搞笑綜合,http://61.218.59.193/live/ch121/playlist.m3u8
@@ -28,7 +28,7 @@ MOMO親子,http://cl2.ottclub.info:443/fmts/n711.stream/playlist.m3u8#http://cl2
 八大綜合,http://ms003.happytv.com.tw/live/BEhHaLG5LblHRqTH/index.m3u8
 三立台灣,http://cl2.ottclub.info:443/fmts/n716.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n716.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
 三立都會,http://cl2.ottclub.info:443/fmts/n685.stream/playlist.m3u8@@#http://cl2.ottclub.info:443/fmts/n685.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://cl2.ottclub.info:443/fmts/n685.stream/playlist.m3u8
-衛視中文,http://cl2.ottclub.info:443/water/c713.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8204.m3u8#http://cl2.ottclub.info:443/water/c713.stream/playlist.m3u8#
+衛視中文,http://cl2.ottclub.info:443/water/c713.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8204.m3u8#http://cl2.ottclub.info:443/water/c713.stream/playlist.m3u8#http://27.254.63.162/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
 東森綜合,http://cl2.ottclub.info:443/fmts/n686.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8202.m3u8#http://cl2.ottclub.info:443/fmts/n686.stream/playlist.m3u8
 超視,http://cl2.ottclub.info:443/fmts/n687.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://cl2.ottclub.info:443/fmts/n687.stream/playlist.m3u8
 緯來综合,視,http://118.163.30.59:36570/hls/JZ0030.m3u8#http://ottclub.sixu.ml:443/fmts/n687.stream/playlist.m3u8#http://cl5.ottclub.info:443/fmts/n687.stream/playlist.m3u8
