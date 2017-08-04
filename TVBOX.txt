@@ -7,7 +7,7 @@ CNN International,http://zb.16ie.com/west.php?id=cnn#http://cl5.ottclub.info:443
 人間衛視,http://202.39.43.120/sta/ch2017071864084043.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084043.m3u8
 台視,http://livewowza.ad2engage.com/ttvmainliveorigin/TTVMainStream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n701.stream/playlist.m3u8
 大愛,http://zb.16ie.com/west.php?id=daai
-中視,http://cl2.ottclub.info:443/fmts/n702.stream/playlist.m3u8
+中視,http://cl2.ottclub.info:443/fmts/n702.stream/playlist.m3u8#http://sU3rup41j4x96:eO3su3d04187@118.163.30.59:36570/hls/XL0089.m3u8
 霹靂台灣,http://cl2.ottclub.info:443/water/c673.stream/playlist.m3u8#http://cl2.ottclub.info:443/water/c673.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
 華視,http://cl2.ottclub.info:443/fmts/n703.stream/playlist.m3u8
 公視,http://cl2.ottclub.info:443/fmts/n704.stream/playlist.m3u8
@@ -26,7 +26,7 @@ MOMO親子,http://cl2.ottclub.info:443/fmts/n711.stream/playlist.m3u8#http://cl2
 緯來綜合,http://cl2.ottclub.info:443/fmts/n713.stream/playlist.m3u8#
 八大第一,http://ms005.happytv.com.tw/live/JTFUpGdyURMgRbpt/index.m3u8
 八大綜合,http://ms003.happytv.com.tw/live/BEhHaLG5LblHRqTH/index.m3u8
-三立台灣,http://cl2.ottclub.info:443/fmts/n716.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n716.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
+三立台灣,http://cl2.ottclub.info:443/fmts/n716.stream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n716.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://sU3rup41j4x96:eO3su3d04187@118.163.30.59:36570/hls/H100X8.m3u8
 三立都會,http://cl2.ottclub.info:443/fmts/n685.stream/playlist.m3u8@@#http://cl2.ottclub.info:443/fmts/n685.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://cl2.ottclub.info:443/fmts/n685.stream/playlist.m3u8
 衛視中文,http://27.254.63.162/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
 東森綜合,http://cl2.ottclub.info:443/fmts/n686.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/8202.m3u8#http://cl2.ottclub.info:443/fmts/n686.stream/playlist.m3u8
