@@ -7,7 +7,7 @@ CNN International,http://zb.16ie.com/west.php?id=cnn#http://cl5.ottclub.info:443
 人間衛視,http://202.39.43.120/sta/ch2017071864084043.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084043.m3u8
 台視,http://livewowza.ad2engage.com/ttvmainliveorigin/TTVMainStream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n701.stream/playlist.m3u8
 大愛,http://zb.16ie.com/west.php?id=daai
-中視,http://202.39.43.120/sta/ch2017071864084064.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084064.m3u8#http://cl2.ottclub.info:443/fmts/n702.stream/playlist.m3u8
+中視,http://cl2.ottclub.info:443/fmts/n702.stream/playlist.m3u8
 霹靂台灣,http://cl2.ottclub.info:443/water/c673.stream/playlist.m3u8#http://cl2.ottclub.info:443/water/c673.stream/playlist.m3u8?a=58f669e6&b=czrrHW6oyGPnxftQicmD_g
 華視,http://cl2.ottclub.info:443/fmts/n703.stream/playlist.m3u8
 公視,http://cl2.ottclub.info:443/fmts/n704.stream/playlist.m3u8
