@@ -3,7 +3,7 @@
 奇妙電視,http://61.10.2.137/live_fantv/_definst_/fantv77_h.live/playlist.m3u8
 搞笑綜合,http://61.218.59.193/live/ch121/playlist.m3u8
 CNN International,http://zb.16ie.com/west.php?id=cnn#http://cl5.ottclub.info:443/kitty/c675.stream/playlist.m3u8#http://tokyo.tv-bar.net/streams/hls/multibitrate/live/9603.m3u8
-民視,p2p://401408730:10028/5391dc5d0008f3201b8ad5c97980341e#http://sU3rup41j4x96:eO3su3d04187@118.163.31.141:36570/hls/TH0085.m3u8#http://202.39.43.120/sta/ch2017071864084087.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084087.m3u8#http://cl2.ottclub.info:443/fmts/n653.stream/playlist.m3u8
+民視,http://202.39.43.117/sta/ch2017023164084987.m3u8#http://202.39.43.118/stc/ch2017071965684087.m3u8#http://sU3rup41j4x96:eO3su3d04187@118.163.31.141:36570/hls/TH0085.m3u8#http://202.39.43.120/sta/ch2017071864084087.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084087.m3u8#http://cl2.ottclub.info:443/fmts/n653.stream/playlist.m3u8
 人間衛視,http://202.39.43.120/sta/ch2017071864084043.m3u8#http://120.198.235.42/202.39.43.117/sta/ch2017071864084043.m3u8
 台視,http://livewowza.ad2engage.com/ttvmainliveorigin/TTVMainStream/playlist.m3u8#http://cl2.ottclub.info:443/fmts/n701.stream/playlist.m3u8
 大愛,p2p://401408730:10028/5391ec240009b6061bc87746602d55e8#http://zb.16ie.com/west.php?id=daai
